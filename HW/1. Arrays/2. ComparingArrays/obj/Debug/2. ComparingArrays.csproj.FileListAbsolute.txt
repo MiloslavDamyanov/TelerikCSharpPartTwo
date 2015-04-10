@@ -1,0 +1,10 @@
+D:\code\C#2\HW\1. Arrays\ComparingArrays\bin\Debug\ComparingArrays.exe.config
+D:\code\C#2\HW\1. Arrays\ComparingArrays\bin\Debug\ComparingArrays.exe
+D:\code\C#2\HW\1. Arrays\ComparingArrays\bin\Debug\ComparingArrays.pdb
+D:\code\C#2\HW\1. Arrays\ComparingArrays\obj\Debug\ComparingArrays.exe
+D:\code\C#2\HW\1. Arrays\ComparingArrays\obj\Debug\ComparingArrays.pdb
+D:\code\C#2\HW\1. Arrays\2. ComparingArrays\bin\Debug\ComparingArrays.exe.config
+D:\code\C#2\HW\1. Arrays\2. ComparingArrays\obj\Debug\ComparingArrays.exe
+D:\code\C#2\HW\1. Arrays\2. ComparingArrays\obj\Debug\ComparingArrays.pdb
+D:\code\C#2\HW\1. Arrays\2. ComparingArrays\bin\Debug\ComparingArrays.exe
+D:\code\C#2\HW\1. Arrays\2. ComparingArrays\bin\Debug\ComparingArrays.pdb

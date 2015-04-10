@@ -1,0 +1,6 @@
+D:\code\C#2\HW\1. Arrays\12. IndexOfLetters\bin\Debug\_12.IndexOfLetters.exe.config
+D:\code\C#2\HW\1. Arrays\12. IndexOfLetters\bin\Debug\_12.IndexOfLetters.exe
+D:\code\C#2\HW\1. Arrays\12. IndexOfLetters\bin\Debug\_12.IndexOfLetters.pdb
+D:\code\C#2\HW\1. Arrays\12. IndexOfLetters\obj\Debug\_12.IndexOfLetters.exe
+D:\code\C#2\HW\1. Arrays\12. IndexOfLetters\obj\Debug\_12.IndexOfLetters.pdb
+D:\code\C#2\HW\1. Arrays\12. IndexOfLetters\obj\Debug\12. IndexOfLetters.csprojResolveAssemblyReference.cache

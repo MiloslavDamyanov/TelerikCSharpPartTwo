@@ -1,0 +1,5 @@
+D:\code\C#2\HW\7. Text-Files\13. HowManyTimesWordsContained\obj\Debug\_13.HowManyTimesWordsContained.exe
+D:\code\C#2\HW\7. Text-Files\13. HowManyTimesWordsContained\obj\Debug\_13.HowManyTimesWordsContained.pdb
+D:\code\C#2\HW\7. Text-Files\13. HowManyTimesWordsContained\bin\Debug\_13.HowManyTimesWordsContained.exe.config
+D:\code\C#2\HW\7. Text-Files\13. HowManyTimesWordsContained\bin\Debug\_13.HowManyTimesWordsContained.exe
+D:\code\C#2\HW\7. Text-Files\13. HowManyTimesWordsContained\bin\Debug\_13.HowManyTimesWordsContained.pdb

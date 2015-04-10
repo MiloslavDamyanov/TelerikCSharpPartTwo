@@ -1,0 +1,5 @@
+D:\code\C#2\HW\5. Using-Classes-and-Objects\03. WhichDayOfTheWeek\bin\Debug\_03.WhichDayOfTheWeek.exe.config
+D:\code\C#2\HW\5. Using-Classes-and-Objects\03. WhichDayOfTheWeek\bin\Debug\_03.WhichDayOfTheWeek.exe
+D:\code\C#2\HW\5. Using-Classes-and-Objects\03. WhichDayOfTheWeek\bin\Debug\_03.WhichDayOfTheWeek.pdb
+D:\code\C#2\HW\5. Using-Classes-and-Objects\03. WhichDayOfTheWeek\obj\Debug\_03.WhichDayOfTheWeek.exe
+D:\code\C#2\HW\5. Using-Classes-and-Objects\03. WhichDayOfTheWeek\obj\Debug\_03.WhichDayOfTheWeek.pdb

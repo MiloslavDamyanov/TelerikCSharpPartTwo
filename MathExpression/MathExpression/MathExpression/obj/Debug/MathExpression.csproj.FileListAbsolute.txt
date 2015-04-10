@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\MathExpression\MathExpression\MathExpression\bin\Debug\MathExpression.exe.config
+C:\Users\User\Desktop\MathExpression\MathExpression\MathExpression\bin\Debug\MathExpression.exe
+C:\Users\User\Desktop\MathExpression\MathExpression\MathExpression\bin\Debug\MathExpression.pdb
+C:\Users\User\Desktop\MathExpression\MathExpression\MathExpression\obj\Debug\MathExpression.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\MathExpression\MathExpression\MathExpression\obj\Debug\MathExpression.exe
+C:\Users\User\Desktop\MathExpression\MathExpression\MathExpression\obj\Debug\MathExpression.pdb

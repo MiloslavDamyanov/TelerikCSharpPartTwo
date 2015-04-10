@@ -1,0 +1,5 @@
+D:\code\C#2\Methods-Demos\Months\bin\Debug\Months.exe
+D:\code\C#2\Methods-Demos\Months\bin\Debug\Months.pdb
+D:\code\C#2\Methods-Demos\Months\obj\Debug\3. Months.csprojResolveAssemblyReference.cache
+D:\code\C#2\Methods-Demos\Months\obj\Debug\Months.exe
+D:\code\C#2\Methods-Demos\Months\obj\Debug\Months.pdb

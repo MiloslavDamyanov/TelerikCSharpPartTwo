@@ -1,0 +1,5 @@
+D:\code\C#2\ArrayTesting\twoDimentionalArray;\bin\Debug\twoDimentionalArray;.exe.config
+D:\code\C#2\ArrayTesting\twoDimentionalArray;\bin\Debug\twoDimentionalArray;.exe
+D:\code\C#2\ArrayTesting\twoDimentionalArray;\bin\Debug\twoDimentionalArray;.pdb
+D:\code\C#2\ArrayTesting\twoDimentionalArray;\obj\Debug\twoDimentionalArray;.exe
+D:\code\C#2\ArrayTesting\twoDimentionalArray;\obj\Debug\twoDimentionalArray;.pdb

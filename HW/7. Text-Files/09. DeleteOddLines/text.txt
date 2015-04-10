@@ -1,0 +1,7 @@
+ Although the StringBuilder class generally offers better 
+ performance than the String class, you should not automatically 
+ replace String with StringBuilder whenever you want to manipulate strings. 
+ Performance depends on the size of the string, the amount of memory to be 
+ allocated for the new string, the system on which your app is executing, 
+ and the type of operation. You should be prepared to test your app to 
+ determine whether 

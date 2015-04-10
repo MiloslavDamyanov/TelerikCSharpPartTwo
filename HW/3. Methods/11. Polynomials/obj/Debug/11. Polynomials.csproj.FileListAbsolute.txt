@@ -1,0 +1,6 @@
+D:\code\C#2\HW\3. Methods\11. Polynomials\bin\Debug\_11.Polynomials.exe.config
+D:\code\C#2\HW\3. Methods\11. Polynomials\bin\Debug\_11.Polynomials.exe
+D:\code\C#2\HW\3. Methods\11. Polynomials\bin\Debug\_11.Polynomials.pdb
+D:\code\C#2\HW\3. Methods\11. Polynomials\obj\Debug\11. Polynomials.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\3. Methods\11. Polynomials\obj\Debug\_11.Polynomials.exe
+D:\code\C#2\HW\3. Methods\11. Polynomials\obj\Debug\_11.Polynomials.pdb

@@ -1,0 +1,6 @@
+D:\code\C#2\HW\2. Multidimensional Arrays\05. ArrayOfStringSort\bin\Debug\_05.ArrayOfStringSort.exe.config
+D:\code\C#2\HW\2. Multidimensional Arrays\05. ArrayOfStringSort\bin\Debug\_05.ArrayOfStringSort.exe
+D:\code\C#2\HW\2. Multidimensional Arrays\05. ArrayOfStringSort\bin\Debug\_05.ArrayOfStringSort.pdb
+D:\code\C#2\HW\2. Multidimensional Arrays\05. ArrayOfStringSort\obj\Debug\05. ArrayOfStringSort.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\2. Multidimensional Arrays\05. ArrayOfStringSort\obj\Debug\_05.ArrayOfStringSort.exe
+D:\code\C#2\HW\2. Multidimensional Arrays\05. ArrayOfStringSort\obj\Debug\_05.ArrayOfStringSort.pdb

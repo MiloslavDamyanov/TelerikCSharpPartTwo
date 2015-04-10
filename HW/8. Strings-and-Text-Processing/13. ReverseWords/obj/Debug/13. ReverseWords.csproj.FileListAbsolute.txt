@@ -1,0 +1,6 @@
+D:\code\C#2\HW\8. Strings-and-Text-Processing\13. ReverseWords\bin\Debug\_13.ReverseWords.exe.config
+D:\code\C#2\HW\8. Strings-and-Text-Processing\13. ReverseWords\bin\Debug\_13.ReverseWords.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\13. ReverseWords\bin\Debug\_13.ReverseWords.pdb
+D:\code\C#2\HW\8. Strings-and-Text-Processing\13. ReverseWords\obj\Debug\_13.ReverseWords.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\13. ReverseWords\obj\Debug\_13.ReverseWords.pdb
+D:\code\C#2\HW\8. Strings-and-Text-Processing\13. ReverseWords\obj\Debug\13. ReverseWords.csprojResolveAssemblyReference.cache

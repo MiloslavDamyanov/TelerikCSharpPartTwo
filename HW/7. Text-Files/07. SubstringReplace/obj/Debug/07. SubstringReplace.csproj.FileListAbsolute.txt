@@ -1,0 +1,12 @@
+D:\code\C#2\HW\07. Text-Files\07. SubstringReplace\bin\Debug\_07.SubstringReplace.exe.config
+D:\code\C#2\HW\07. Text-Files\07. SubstringReplace\bin\Debug\_07.SubstringReplace.exe
+D:\code\C#2\HW\07. Text-Files\07. SubstringReplace\bin\Debug\_07.SubstringReplace.pdb
+D:\code\C#2\HW\07. Text-Files\07. SubstringReplace\obj\Debug\07. SubstringReplace.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\07. Text-Files\07. SubstringReplace\obj\Debug\_07.SubstringReplace.exe
+D:\code\C#2\HW\07. Text-Files\07. SubstringReplace\obj\Debug\_07.SubstringReplace.pdb
+D:\code\C#2\HW\7. Text-Files\07. SubstringReplace\bin\Debug\_07.SubstringReplace.exe.config
+D:\code\C#2\HW\7. Text-Files\07. SubstringReplace\bin\Debug\_07.SubstringReplace.exe
+D:\code\C#2\HW\7. Text-Files\07. SubstringReplace\bin\Debug\_07.SubstringReplace.pdb
+D:\code\C#2\HW\7. Text-Files\07. SubstringReplace\obj\Debug\07. SubstringReplace.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\7. Text-Files\07. SubstringReplace\obj\Debug\_07.SubstringReplace.exe
+D:\code\C#2\HW\7. Text-Files\07. SubstringReplace\obj\Debug\_07.SubstringReplace.pdb

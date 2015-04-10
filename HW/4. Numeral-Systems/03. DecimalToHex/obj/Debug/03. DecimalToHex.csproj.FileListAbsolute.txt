@@ -1,0 +1,6 @@
+D:\code\C#2\HW\4. Numeral-Systems\03. DecimalToHex\bin\Debug\_03.DecimalToHex.exe.config
+D:\code\C#2\HW\4. Numeral-Systems\03. DecimalToHex\bin\Debug\_03.DecimalToHex.exe
+D:\code\C#2\HW\4. Numeral-Systems\03. DecimalToHex\bin\Debug\_03.DecimalToHex.pdb
+D:\code\C#2\HW\4. Numeral-Systems\03. DecimalToHex\obj\Debug\_03.DecimalToHex.exe
+D:\code\C#2\HW\4. Numeral-Systems\03. DecimalToHex\obj\Debug\_03.DecimalToHex.pdb
+D:\code\C#2\HW\4. Numeral-Systems\03. DecimalToHex\obj\Debug\03. DecimalToHex.csprojResolveAssemblyReference.cache

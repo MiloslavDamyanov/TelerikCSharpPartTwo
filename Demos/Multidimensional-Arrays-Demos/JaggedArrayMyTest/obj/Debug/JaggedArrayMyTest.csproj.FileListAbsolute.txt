@@ -1,0 +1,6 @@
+D:\code\C#2\Demos\Multidimensional-Arrays-Demos\JaggedArrayMyTest\bin\Debug\JaggedArrayMyTest.exe.config
+D:\code\C#2\Demos\Multidimensional-Arrays-Demos\JaggedArrayMyTest\bin\Debug\JaggedArrayMyTest.exe
+D:\code\C#2\Demos\Multidimensional-Arrays-Demos\JaggedArrayMyTest\bin\Debug\JaggedArrayMyTest.pdb
+D:\code\C#2\Demos\Multidimensional-Arrays-Demos\JaggedArrayMyTest\obj\Debug\JaggedArrayMyTest.csprojResolveAssemblyReference.cache
+D:\code\C#2\Demos\Multidimensional-Arrays-Demos\JaggedArrayMyTest\obj\Debug\JaggedArrayMyTest.exe
+D:\code\C#2\Demos\Multidimensional-Arrays-Demos\JaggedArrayMyTest\obj\Debug\JaggedArrayMyTest.pdb

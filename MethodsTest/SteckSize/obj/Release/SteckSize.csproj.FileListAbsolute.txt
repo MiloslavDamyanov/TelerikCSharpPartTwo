@@ -1,0 +1,5 @@
+D:\code\C#2\MethodsTest\SteckSize\bin\Release\SteckSize.exe.config
+D:\code\C#2\MethodsTest\SteckSize\bin\Release\SteckSize.exe
+D:\code\C#2\MethodsTest\SteckSize\bin\Release\SteckSize.pdb
+D:\code\C#2\MethodsTest\SteckSize\obj\Release\SteckSize.exe
+D:\code\C#2\MethodsTest\SteckSize\obj\Release\SteckSize.pdb

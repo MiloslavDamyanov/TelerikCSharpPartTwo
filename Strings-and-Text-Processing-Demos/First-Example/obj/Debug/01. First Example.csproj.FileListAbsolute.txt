@@ -1,0 +1,5 @@
+D:\code\C#2\Strings-and-Text-Processing-Demos\First-Example\bin\Debug\FirsExample.exe
+D:\code\C#2\Strings-and-Text-Processing-Demos\First-Example\bin\Debug\FirsExample.pdb
+D:\code\C#2\Strings-and-Text-Processing-Demos\First-Example\obj\Debug\01. First Example.csprojResolveAssemblyReference.cache
+D:\code\C#2\Strings-and-Text-Processing-Demos\First-Example\obj\Debug\FirsExample.exe
+D:\code\C#2\Strings-and-Text-Processing-Demos\First-Example\obj\Debug\FirsExample.pdb

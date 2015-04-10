@@ -1,0 +1,5 @@
+D:\code\C#2\ListTest\ListTest\bin\Debug\ListTest.exe.config
+D:\code\C#2\ListTest\ListTest\bin\Debug\ListTest.exe
+D:\code\C#2\ListTest\ListTest\bin\Debug\ListTest.pdb
+D:\code\C#2\ListTest\ListTest\obj\Debug\ListTest.exe
+D:\code\C#2\ListTest\ListTest\obj\Debug\ListTest.pdb

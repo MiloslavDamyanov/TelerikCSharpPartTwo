@@ -1,0 +1,6 @@
+D:\code\C#2\ArrayTesting\ArrayTesting\bin\Debug\ArrayTesting.exe.config
+D:\code\C#2\ArrayTesting\ArrayTesting\bin\Debug\ArrayTesting.exe
+D:\code\C#2\ArrayTesting\ArrayTesting\bin\Debug\ArrayTesting.pdb
+D:\code\C#2\ArrayTesting\ArrayTesting\obj\Debug\ArrayTesting.csprojResolveAssemblyReference.cache
+D:\code\C#2\ArrayTesting\ArrayTesting\obj\Debug\ArrayTesting.exe
+D:\code\C#2\ArrayTesting\ArrayTesting\obj\Debug\ArrayTesting.pdb

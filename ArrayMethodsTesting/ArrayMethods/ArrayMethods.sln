@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingArray", "ArrayMethods\SortingArray.csproj", "{D4201A15-7E1A-41F2-B172-7A82D18CAF22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{A91E7290-6D44-4D6D-936C-9F2BA263B8B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4201A15-7E1A-41F2-B172-7A82D18CAF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4201A15-7E1A-41F2-B172-7A82D18CAF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4201A15-7E1A-41F2-B172-7A82D18CAF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4201A15-7E1A-41F2-B172-7A82D18CAF22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A91E7290-6D44-4D6D-936C-9F2BA263B8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91E7290-6D44-4D6D-936C-9F2BA263B8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91E7290-6D44-4D6D-936C-9F2BA263B8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91E7290-6D44-4D6D-936C-9F2BA263B8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\code\C#2\ClassesDemoTesting\NewCar\bin\Debug\NewCar.exe.config
+D:\code\C#2\ClassesDemoTesting\NewCar\bin\Debug\NewCar.exe
+D:\code\C#2\ClassesDemoTesting\NewCar\bin\Debug\NewCar.pdb
+D:\code\C#2\ClassesDemoTesting\NewCar\obj\Debug\NewCar.csprojResolveAssemblyReference.cache
+D:\code\C#2\ClassesDemoTesting\NewCar\obj\Debug\NewCar.exe
+D:\code\C#2\ClassesDemoTesting\NewCar\obj\Debug\NewCar.pdb

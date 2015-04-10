@@ -1,0 +1,6 @@
+D:\code\C#2\DanceMan\DanceMan\bin\Debug\DanceMan.exe.config
+D:\code\C#2\DanceMan\DanceMan\bin\Debug\DanceMan.exe
+D:\code\C#2\DanceMan\DanceMan\bin\Debug\DanceMan.pdb
+D:\code\C#2\DanceMan\DanceMan\obj\Debug\DanceMan.csprojResolveAssemblyReference.cache
+D:\code\C#2\DanceMan\DanceMan\obj\Debug\DanceMan.exe
+D:\code\C#2\DanceMan\DanceMan\obj\Debug\DanceMan.pdb

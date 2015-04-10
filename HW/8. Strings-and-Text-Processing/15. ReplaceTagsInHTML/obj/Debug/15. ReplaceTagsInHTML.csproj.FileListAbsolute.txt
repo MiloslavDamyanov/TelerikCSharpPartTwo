@@ -1,0 +1,6 @@
+D:\code\C#2\HW\8. Strings-and-Text-Processing\15. ReplaceTagsInHTML\bin\Debug\_15.ReplaceTagsInHTML.exe.config
+D:\code\C#2\HW\8. Strings-and-Text-Processing\15. ReplaceTagsInHTML\bin\Debug\_15.ReplaceTagsInHTML.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\15. ReplaceTagsInHTML\bin\Debug\_15.ReplaceTagsInHTML.pdb
+D:\code\C#2\HW\8. Strings-and-Text-Processing\15. ReplaceTagsInHTML\obj\Debug\15. ReplaceTagsInHTML.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\8. Strings-and-Text-Processing\15. ReplaceTagsInHTML\obj\Debug\_15.ReplaceTagsInHTML.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\15. ReplaceTagsInHTML\obj\Debug\_15.ReplaceTagsInHTML.pdb

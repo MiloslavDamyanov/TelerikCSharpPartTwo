@@ -1,0 +1,6 @@
+D:\code\C#2\HW\8. Strings-and-Text-Processing\14. Dictionary\bin\Debug\_14.Dictionary.exe.config
+D:\code\C#2\HW\8. Strings-and-Text-Processing\14. Dictionary\bin\Debug\_14.Dictionary.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\14. Dictionary\bin\Debug\_14.Dictionary.pdb
+D:\code\C#2\HW\8. Strings-and-Text-Processing\14. Dictionary\obj\Debug\14. Dictionary.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\8. Strings-and-Text-Processing\14. Dictionary\obj\Debug\_14.Dictionary.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\14. Dictionary\obj\Debug\_14.Dictionary.pdb

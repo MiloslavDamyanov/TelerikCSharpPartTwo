@@ -1,0 +1,3 @@
+D:\code\C#2\MethodsTest\SteckSize\bin\Debug\SteckSize.exe.config
+D:\code\C#2\MethodsTest\SteckSize\obj\Debug\SteckSize.exe
+D:\code\C#2\MethodsTest\SteckSize\obj\Debug\SteckSize.pdb

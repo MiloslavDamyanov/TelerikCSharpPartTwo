@@ -1,0 +1,6 @@
+D:\code\C#2\ArrayTesting\ArraySymmetryCheck\bin\Debug\ArraySymmetryCheck.exe.config
+D:\code\C#2\ArrayTesting\ArraySymmetryCheck\bin\Debug\ArraySymmetryCheck.exe
+D:\code\C#2\ArrayTesting\ArraySymmetryCheck\bin\Debug\ArraySymmetryCheck.pdb
+D:\code\C#2\ArrayTesting\ArraySymmetryCheck\obj\Debug\ArraySymmetryCheck.exe
+D:\code\C#2\ArrayTesting\ArraySymmetryCheck\obj\Debug\ArraySymmetryCheck.pdb
+D:\code\C#2\ArrayTesting\ArraySymmetryCheck\obj\Debug\ArraySymmetryCheck.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\code\C#2\HW\1. Arrays\4. SequenceOfEqualElements\bin\Debug\_4.SequenceOfEqualElements.exe.config
+D:\code\C#2\HW\1. Arrays\4. SequenceOfEqualElements\bin\Debug\_4.SequenceOfEqualElements.exe
+D:\code\C#2\HW\1. Arrays\4. SequenceOfEqualElements\bin\Debug\_4.SequenceOfEqualElements.pdb
+D:\code\C#2\HW\1. Arrays\4. SequenceOfEqualElements\obj\Debug\4. SequenceOfEqualElements.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\1. Arrays\4. SequenceOfEqualElements\obj\Debug\_4.SequenceOfEqualElements.exe
+D:\code\C#2\HW\1. Arrays\4. SequenceOfEqualElements\obj\Debug\_4.SequenceOfEqualElements.pdb

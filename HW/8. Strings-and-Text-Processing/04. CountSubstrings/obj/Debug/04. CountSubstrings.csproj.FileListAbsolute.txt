@@ -1,0 +1,6 @@
+D:\code\C#2\HW\8. Strings-and-Text-Processing\04. CountSubstrings\bin\Debug\_04.CountSubstrings.exe.config
+D:\code\C#2\HW\8. Strings-and-Text-Processing\04. CountSubstrings\bin\Debug\_04.CountSubstrings.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\04. CountSubstrings\bin\Debug\_04.CountSubstrings.pdb
+D:\code\C#2\HW\8. Strings-and-Text-Processing\04. CountSubstrings\obj\Debug\_04.CountSubstrings.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\04. CountSubstrings\obj\Debug\_04.CountSubstrings.pdb
+D:\code\C#2\HW\8. Strings-and-Text-Processing\04. CountSubstrings\obj\Debug\04. CountSubstrings.csprojResolveAssemblyReference.cache

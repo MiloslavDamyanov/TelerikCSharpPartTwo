@@ -1,0 +1,12 @@
+D:\code\C#2\HW\07. Text-Files\10. ExtractTextFromXML\bin\Debug\_10.ExtractTextFromXML.exe.config
+D:\code\C#2\HW\07. Text-Files\10. ExtractTextFromXML\bin\Debug\_10.ExtractTextFromXML.exe
+D:\code\C#2\HW\07. Text-Files\10. ExtractTextFromXML\bin\Debug\_10.ExtractTextFromXML.pdb
+D:\code\C#2\HW\07. Text-Files\10. ExtractTextFromXML\obj\Debug\_10.ExtractTextFromXML.exe
+D:\code\C#2\HW\07. Text-Files\10. ExtractTextFromXML\obj\Debug\_10.ExtractTextFromXML.pdb
+D:\code\C#2\HW\07. Text-Files\10. ExtractTextFromXML\obj\Debug\10. ExtractTextFromXML.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\7. Text-Files\10. ExtractTextFromXML\bin\Debug\_10.ExtractTextFromXML.exe.config
+D:\code\C#2\HW\7. Text-Files\10. ExtractTextFromXML\obj\Debug\_10.ExtractTextFromXML.exe
+D:\code\C#2\HW\7. Text-Files\10. ExtractTextFromXML\obj\Debug\_10.ExtractTextFromXML.pdb
+D:\code\C#2\HW\7. Text-Files\10. ExtractTextFromXML\bin\Debug\_10.ExtractTextFromXML.exe
+D:\code\C#2\HW\7. Text-Files\10. ExtractTextFromXML\bin\Debug\_10.ExtractTextFromXML.pdb
+D:\code\C#2\HW\7. Text-Files\10. ExtractTextFromXML\obj\Debug\10. ExtractTextFromXML.csprojResolveAssemblyReference.cache

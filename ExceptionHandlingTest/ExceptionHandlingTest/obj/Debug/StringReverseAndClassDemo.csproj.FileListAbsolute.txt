@@ -1,0 +1,6 @@
+D:\code\C#2\ExceptionHandlingTest\ExceptionHandlingTest\bin\Debug\ExceptionHandlingTest.exe.config
+D:\code\C#2\ExceptionHandlingTest\ExceptionHandlingTest\bin\Debug\ExceptionHandlingTest.exe
+D:\code\C#2\ExceptionHandlingTest\ExceptionHandlingTest\bin\Debug\ExceptionHandlingTest.pdb
+D:\code\C#2\ExceptionHandlingTest\ExceptionHandlingTest\obj\Debug\StringReverseAndClassDemo.csprojResolveAssemblyReference.cache
+D:\code\C#2\ExceptionHandlingTest\ExceptionHandlingTest\obj\Debug\ExceptionHandlingTest.exe
+D:\code\C#2\ExceptionHandlingTest\ExceptionHandlingTest\obj\Debug\ExceptionHandlingTest.pdb

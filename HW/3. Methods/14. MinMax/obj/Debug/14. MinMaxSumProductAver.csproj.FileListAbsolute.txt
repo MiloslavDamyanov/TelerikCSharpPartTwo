@@ -1,0 +1,5 @@
+D:\code\C#2\HW\3. Methods\14. MinMax\bin\Debug\_14.MinMax.exe.config
+D:\code\C#2\HW\3. Methods\14. MinMax\obj\Debug\_14.MinMax.exe
+D:\code\C#2\HW\3. Methods\14. MinMax\obj\Debug\_14.MinMax.pdb
+D:\code\C#2\HW\3. Methods\14. MinMax\bin\Debug\_14.MinMax.exe
+D:\code\C#2\HW\3. Methods\14. MinMax\bin\Debug\_14.MinMax.pdb

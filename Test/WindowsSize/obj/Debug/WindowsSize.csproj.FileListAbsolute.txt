@@ -1,0 +1,5 @@
+D:\code\C#2\Test\WindowsSize\bin\Debug\WindowsSize.exe.config
+D:\code\C#2\Test\WindowsSize\bin\Debug\WindowsSize.exe
+D:\code\C#2\Test\WindowsSize\bin\Debug\WindowsSize.pdb
+D:\code\C#2\Test\WindowsSize\obj\Debug\WindowsSize.exe
+D:\code\C#2\Test\WindowsSize\obj\Debug\WindowsSize.pdb

@@ -1,0 +1,6 @@
+D:\code\C#2\HW\8. Strings-and-Text-Processing\03. CheckBrackets\bin\Debug\_03.CheckBrackets.exe.config
+D:\code\C#2\HW\8. Strings-and-Text-Processing\03. CheckBrackets\bin\Debug\_03.CheckBrackets.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\03. CheckBrackets\bin\Debug\_03.CheckBrackets.pdb
+D:\code\C#2\HW\8. Strings-and-Text-Processing\03. CheckBrackets\obj\Debug\_03.CheckBrackets.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\03. CheckBrackets\obj\Debug\_03.CheckBrackets.pdb
+D:\code\C#2\HW\8. Strings-and-Text-Processing\03. CheckBrackets\obj\Debug\03. CheckBrackets.csprojResolveAssemblyReference.cache

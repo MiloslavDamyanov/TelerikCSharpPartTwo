@@ -1,0 +1,6 @@
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\MDATesting\bin\Debug\MDATesting.exe.config
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\MDATesting\bin\Debug\MDATesting.exe
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\MDATesting\bin\Debug\MDATesting.pdb
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\MDATesting\obj\Debug\MDATesting.csprojResolveAssemblyReference.cache
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\MDATesting\obj\Debug\MDATesting.exe
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\MDATesting\obj\Debug\MDATesting.pdb

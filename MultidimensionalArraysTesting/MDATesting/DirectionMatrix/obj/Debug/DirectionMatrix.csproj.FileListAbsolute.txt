@@ -1,0 +1,6 @@
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\DirectionMatrix\bin\Debug\DirectionMatrix.exe.config
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\DirectionMatrix\bin\Debug\DirectionMatrix.exe
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\DirectionMatrix\bin\Debug\DirectionMatrix.pdb
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\DirectionMatrix\obj\Debug\DirectionMatrix.csprojResolveAssemblyReference.cache
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\DirectionMatrix\obj\Debug\DirectionMatrix.exe
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\DirectionMatrix\obj\Debug\DirectionMatrix.pdb

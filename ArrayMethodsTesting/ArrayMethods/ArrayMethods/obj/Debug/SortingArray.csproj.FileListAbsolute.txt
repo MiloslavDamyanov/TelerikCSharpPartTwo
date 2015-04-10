@@ -1,0 +1,6 @@
+D:\code\C#2\ArrayMethodsTesting\ArrayMethods\ArrayMethods\bin\Debug\ArrayMethods.exe.config
+D:\code\C#2\ArrayMethodsTesting\ArrayMethods\ArrayMethods\bin\Debug\ArrayMethods.exe
+D:\code\C#2\ArrayMethodsTesting\ArrayMethods\ArrayMethods\bin\Debug\ArrayMethods.pdb
+D:\code\C#2\ArrayMethodsTesting\ArrayMethods\ArrayMethods\obj\Debug\SortingArray.csprojResolveAssemblyReference.cache
+D:\code\C#2\ArrayMethodsTesting\ArrayMethods\ArrayMethods\obj\Debug\ArrayMethods.exe
+D:\code\C#2\ArrayMethodsTesting\ArrayMethods\ArrayMethods\obj\Debug\ArrayMethods.pdb

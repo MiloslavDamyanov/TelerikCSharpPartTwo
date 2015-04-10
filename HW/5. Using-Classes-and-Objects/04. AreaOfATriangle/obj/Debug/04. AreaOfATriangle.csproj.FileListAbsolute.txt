@@ -1,0 +1,6 @@
+D:\code\C#2\HW\5. Using-Classes-and-Objects\04. AreaOfATriangle\bin\Debug\_04.AreaOfATriangle.exe.config
+D:\code\C#2\HW\5. Using-Classes-and-Objects\04. AreaOfATriangle\bin\Debug\_04.AreaOfATriangle.exe
+D:\code\C#2\HW\5. Using-Classes-and-Objects\04. AreaOfATriangle\bin\Debug\_04.AreaOfATriangle.pdb
+D:\code\C#2\HW\5. Using-Classes-and-Objects\04. AreaOfATriangle\obj\Debug\04. AreaOfATriangle.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\5. Using-Classes-and-Objects\04. AreaOfATriangle\obj\Debug\_04.AreaOfATriangle.exe
+D:\code\C#2\HW\5. Using-Classes-and-Objects\04. AreaOfATriangle\obj\Debug\_04.AreaOfATriangle.pdb

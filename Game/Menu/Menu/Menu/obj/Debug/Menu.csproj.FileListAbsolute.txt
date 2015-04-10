@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Game\Menu\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\User\Desktop\Game\Menu\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\User\Desktop\Game\Menu\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\User\Desktop\Game\Menu\Menu\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Game\Menu\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\User\Desktop\Game\Menu\Menu\Menu\obj\Debug\Menu.pdb

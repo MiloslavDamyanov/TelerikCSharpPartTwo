@@ -1,0 +1,6 @@
+D:\code\C#2\HW\8. Strings-and-Text-Processing\02. ReverseString\bin\Debug\_02.ReverseString.exe.config
+D:\code\C#2\HW\8. Strings-and-Text-Processing\02. ReverseString\bin\Debug\_02.ReverseString.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\02. ReverseString\bin\Debug\_02.ReverseString.pdb
+D:\code\C#2\HW\8. Strings-and-Text-Processing\02. ReverseString\obj\Debug\02. ReverseString.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\8. Strings-and-Text-Processing\02. ReverseString\obj\Debug\_02.ReverseString.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\02. ReverseString\obj\Debug\_02.ReverseString.pdb

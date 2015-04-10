@@ -1,0 +1,1 @@
+D:\code\C#2\HW\6. Exception-Handling\6. Exception-Handling\bin\Debug\_6.Exception_Handling.exe.config

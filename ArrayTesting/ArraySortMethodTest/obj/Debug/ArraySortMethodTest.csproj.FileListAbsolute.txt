@@ -1,0 +1,6 @@
+D:\code\C#2\ArrayTesting\ArraySortMethodTest\bin\Debug\ArraySortMethodTest.exe.config
+D:\code\C#2\ArrayTesting\ArraySortMethodTest\bin\Debug\ArraySortMethodTest.exe
+D:\code\C#2\ArrayTesting\ArraySortMethodTest\bin\Debug\ArraySortMethodTest.pdb
+D:\code\C#2\ArrayTesting\ArraySortMethodTest\obj\Debug\ArraySortMethodTest.csprojResolveAssemblyReference.cache
+D:\code\C#2\ArrayTesting\ArraySortMethodTest\obj\Debug\ArraySortMethodTest.exe
+D:\code\C#2\ArrayTesting\ArraySortMethodTest\obj\Debug\ArraySortMethodTest.pdb

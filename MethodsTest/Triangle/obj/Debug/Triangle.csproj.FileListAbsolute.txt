@@ -1,0 +1,5 @@
+D:\code\C#2\MethodsTest\Triangle\bin\Debug\Triangle.exe.config
+D:\code\C#2\MethodsTest\Triangle\bin\Debug\Triangle.exe
+D:\code\C#2\MethodsTest\Triangle\bin\Debug\Triangle.pdb
+D:\code\C#2\MethodsTest\Triangle\obj\Debug\Triangle.exe
+D:\code\C#2\MethodsTest\Triangle\obj\Debug\Triangle.pdb

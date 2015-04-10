@@ -1,0 +1,6 @@
+D:\code\C#2\HW\5. Using-Classes-and-Objects\07. MathExpression\bin\Debug\_07.MathExpression.exe.config
+D:\code\C#2\HW\5. Using-Classes-and-Objects\07. MathExpression\bin\Debug\_07.MathExpression.exe
+D:\code\C#2\HW\5. Using-Classes-and-Objects\07. MathExpression\bin\Debug\_07.MathExpression.pdb
+D:\code\C#2\HW\5. Using-Classes-and-Objects\07. MathExpression\obj\Debug\07. MathExpression.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\5. Using-Classes-and-Objects\07. MathExpression\obj\Debug\_07.MathExpression.exe
+D:\code\C#2\HW\5. Using-Classes-and-Objects\07. MathExpression\obj\Debug\_07.MathExpression.pdb

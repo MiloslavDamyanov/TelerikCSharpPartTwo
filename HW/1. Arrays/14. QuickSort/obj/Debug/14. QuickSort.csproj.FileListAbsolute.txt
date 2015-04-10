@@ -1,0 +1,6 @@
+D:\code\C#2\HW\1. Arrays\14. QuickSort\bin\Debug\_14.QuickSort.exe.config
+D:\code\C#2\HW\1. Arrays\14. QuickSort\bin\Debug\_14.QuickSort.exe
+D:\code\C#2\HW\1. Arrays\14. QuickSort\bin\Debug\_14.QuickSort.pdb
+D:\code\C#2\HW\1. Arrays\14. QuickSort\obj\Debug\14. QuickSort.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\1. Arrays\14. QuickSort\obj\Debug\_14.QuickSort.exe
+D:\code\C#2\HW\1. Arrays\14. QuickSort\obj\Debug\_14.QuickSort.pdb

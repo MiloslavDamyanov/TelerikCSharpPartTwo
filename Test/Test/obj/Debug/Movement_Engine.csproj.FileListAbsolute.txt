@@ -1,0 +1,6 @@
+D:\code\C#2\Test\Test\bin\Debug\Test.exe.config
+D:\code\C#2\Test\Test\bin\Debug\Test.exe
+D:\code\C#2\Test\Test\obj\Debug\Test.exe
+D:\code\C#2\Test\Test\obj\Debug\Test.pdb
+D:\code\C#2\Test\Test\bin\Debug\Test.pdb
+D:\code\C#2\Test\Test\obj\Debug\Movement_Engine.csprojResolveAssemblyReference.cache

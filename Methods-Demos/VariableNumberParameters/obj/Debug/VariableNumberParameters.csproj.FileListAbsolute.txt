@@ -1,0 +1,5 @@
+D:\code\C#2\Methods-Demos\VariableNumberParameters\bin\Debug\VariableNumberParameters.exe.config
+D:\code\C#2\Methods-Demos\VariableNumberParameters\bin\Debug\VariableNumberParameters.exe
+D:\code\C#2\Methods-Demos\VariableNumberParameters\bin\Debug\VariableNumberParameters.pdb
+D:\code\C#2\Methods-Demos\VariableNumberParameters\obj\Debug\VariableNumberParameters.exe
+D:\code\C#2\Methods-Demos\VariableNumberParameters\obj\Debug\VariableNumberParameters.pdb

@@ -1,0 +1,6 @@
+D:\code\C#2\ClassesDemoTesting\ClassesDemoTesting\bin\Debug\ClassesDemoTesting.exe.config
+D:\code\C#2\ClassesDemoTesting\ClassesDemoTesting\bin\Debug\ClassesDemoTesting.exe
+D:\code\C#2\ClassesDemoTesting\ClassesDemoTesting\bin\Debug\ClassesDemoTesting.pdb
+D:\code\C#2\ClassesDemoTesting\ClassesDemoTesting\obj\Debug\ClassesDemoTesting.csprojResolveAssemblyReference.cache
+D:\code\C#2\ClassesDemoTesting\ClassesDemoTesting\obj\Debug\ClassesDemoTesting.exe
+D:\code\C#2\ClassesDemoTesting\ClassesDemoTesting\obj\Debug\ClassesDemoTesting.pdb

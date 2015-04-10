@@ -1,0 +1,6 @@
+D:\code\C#2\HW\6. Exception-Handling\04. DownloadFile\bin\Debug\_04.DownloadFile.exe.config
+D:\code\C#2\HW\6. Exception-Handling\04. DownloadFile\bin\Debug\_04.DownloadFile.exe
+D:\code\C#2\HW\6. Exception-Handling\04. DownloadFile\bin\Debug\_04.DownloadFile.pdb
+D:\code\C#2\HW\6. Exception-Handling\04. DownloadFile\obj\Debug\04. DownloadFile.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\6. Exception-Handling\04. DownloadFile\obj\Debug\_04.DownloadFile.exe
+D:\code\C#2\HW\6. Exception-Handling\04. DownloadFile\obj\Debug\_04.DownloadFile.pdb

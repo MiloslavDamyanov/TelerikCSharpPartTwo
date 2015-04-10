@@ -1,0 +1,6 @@
+D:\code\C#2\HW\1. Arrays\8. SequenceOfMaxSum\bin\Debug\_8.SequenceOfMaxSum.exe.config
+D:\code\C#2\HW\1. Arrays\8. SequenceOfMaxSum\obj\Debug\8. SequenceOfMaxSum.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\1. Arrays\8. SequenceOfMaxSum\bin\Debug\_8.SequenceOfMaxSum.exe
+D:\code\C#2\HW\1. Arrays\8. SequenceOfMaxSum\bin\Debug\_8.SequenceOfMaxSum.pdb
+D:\code\C#2\HW\1. Arrays\8. SequenceOfMaxSum\obj\Debug\_8.SequenceOfMaxSum.exe
+D:\code\C#2\HW\1. Arrays\8. SequenceOfMaxSum\obj\Debug\_8.SequenceOfMaxSum.pdb

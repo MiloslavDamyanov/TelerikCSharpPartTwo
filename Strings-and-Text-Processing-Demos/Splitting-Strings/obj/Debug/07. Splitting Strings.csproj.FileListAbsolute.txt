@@ -1,0 +1,5 @@
+D:\code\C#2\Strings-and-Text-Processing-Demos\Splitting-Strings\bin\Debug\Splitting-Strings.exe
+D:\code\C#2\Strings-and-Text-Processing-Demos\Splitting-Strings\bin\Debug\Splitting-Strings.pdb
+D:\code\C#2\Strings-and-Text-Processing-Demos\Splitting-Strings\obj\Debug\07. Splitting Strings.csprojResolveAssemblyReference.cache
+D:\code\C#2\Strings-and-Text-Processing-Demos\Splitting-Strings\obj\Debug\Splitting-Strings.exe
+D:\code\C#2\Strings-and-Text-Processing-Demos\Splitting-Strings\obj\Debug\Splitting-Strings.pdb

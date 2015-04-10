@@ -1,0 +1,6 @@
+D:\code\C#2\HW\1. Arrays\5. IncreasingSequence\bin\Debug\_5.IncreasingSequence.exe.config
+D:\code\C#2\HW\1. Arrays\5. IncreasingSequence\bin\Debug\_5.IncreasingSequence.exe
+D:\code\C#2\HW\1. Arrays\5. IncreasingSequence\bin\Debug\_5.IncreasingSequence.pdb
+D:\code\C#2\HW\1. Arrays\5. IncreasingSequence\obj\Debug\5. IncreasingSequence.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\1. Arrays\5. IncreasingSequence\obj\Debug\_5.IncreasingSequence.exe
+D:\code\C#2\HW\1. Arrays\5. IncreasingSequence\obj\Debug\_5.IncreasingSequence.pdb

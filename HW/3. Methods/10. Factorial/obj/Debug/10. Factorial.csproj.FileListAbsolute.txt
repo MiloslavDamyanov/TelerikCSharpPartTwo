@@ -1,0 +1,6 @@
+D:\code\C#2\HW\3. Methods\10. Factorial\bin\Debug\_10.Factorial.exe.config
+D:\code\C#2\HW\3. Methods\10. Factorial\bin\Debug\_10.Factorial.exe
+D:\code\C#2\HW\3. Methods\10. Factorial\bin\Debug\_10.Factorial.pdb
+D:\code\C#2\HW\3. Methods\10. Factorial\obj\Debug\10. Factorial.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\3. Methods\10. Factorial\obj\Debug\_10.Factorial.exe
+D:\code\C#2\HW\3. Methods\10. Factorial\obj\Debug\_10.Factorial.pdb

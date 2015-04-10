@@ -1,0 +1,5 @@
+D:\code\C#2\ArrayTesting\PascalTriangle\bin\Debug\PascalTriangle.exe.config
+D:\code\C#2\ArrayTesting\PascalTriangle\bin\Debug\PascalTriangle.exe
+D:\code\C#2\ArrayTesting\PascalTriangle\bin\Debug\PascalTriangle.pdb
+D:\code\C#2\ArrayTesting\PascalTriangle\obj\Debug\PascalTriangle.exe
+D:\code\C#2\ArrayTesting\PascalTriangle\obj\Debug\PascalTriangle.pdb

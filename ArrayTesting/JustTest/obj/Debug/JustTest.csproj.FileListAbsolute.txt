@@ -1,0 +1,6 @@
+D:\code\C#2\ArrayTesting\JustTest\bin\Debug\JustTest.exe.config
+D:\code\C#2\ArrayTesting\JustTest\bin\Debug\JustTest.exe
+D:\code\C#2\ArrayTesting\JustTest\bin\Debug\JustTest.pdb
+D:\code\C#2\ArrayTesting\JustTest\obj\Debug\JustTest.csprojResolveAssemblyReference.cache
+D:\code\C#2\ArrayTesting\JustTest\obj\Debug\JustTest.exe
+D:\code\C#2\ArrayTesting\JustTest\obj\Debug\JustTest.pdb

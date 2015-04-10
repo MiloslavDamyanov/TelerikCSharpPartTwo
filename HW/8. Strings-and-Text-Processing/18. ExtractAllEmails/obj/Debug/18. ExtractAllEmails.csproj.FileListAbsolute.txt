@@ -1,0 +1,6 @@
+D:\code\C#2\HW\8. Strings-and-Text-Processing\18. ExtractAllEmails\bin\Debug\_18.ExtractAllEmails.exe.config
+D:\code\C#2\HW\8. Strings-and-Text-Processing\18. ExtractAllEmails\obj\Debug\18. ExtractAllEmails.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\8. Strings-and-Text-Processing\18. ExtractAllEmails\bin\Debug\_18.ExtractAllEmails.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\18. ExtractAllEmails\bin\Debug\_18.ExtractAllEmails.pdb
+D:\code\C#2\HW\8. Strings-and-Text-Processing\18. ExtractAllEmails\obj\Debug\_18.ExtractAllEmails.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\18. ExtractAllEmails\obj\Debug\_18.ExtractAllEmails.pdb

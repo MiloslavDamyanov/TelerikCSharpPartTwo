@@ -1,0 +1,5 @@
+D:\code\C#2\MethodsTest\Month\bin\Debug\Month.exe.config
+D:\code\C#2\MethodsTest\Month\bin\Debug\Month.exe
+D:\code\C#2\MethodsTest\Month\bin\Debug\Month.pdb
+D:\code\C#2\MethodsTest\Month\obj\Debug\Month.exe
+D:\code\C#2\MethodsTest\Month\obj\Debug\Month.pdb

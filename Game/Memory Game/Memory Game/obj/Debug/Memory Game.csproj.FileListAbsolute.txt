@@ -1,0 +1,6 @@
+D:\code\C#2\Game\Memory Game\Memory Game\bin\Debug\Memory Game.exe.config
+D:\code\C#2\Game\Memory Game\Memory Game\bin\Debug\Memory Game.exe
+D:\code\C#2\Game\Memory Game\Memory Game\bin\Debug\Memory Game.pdb
+D:\code\C#2\Game\Memory Game\Memory Game\obj\Debug\Memory Game.csprojResolveAssemblyReference.cache
+D:\code\C#2\Game\Memory Game\Memory Game\obj\Debug\Memory Game.exe
+D:\code\C#2\Game\Memory Game\Memory Game\obj\Debug\Memory Game.pdb

@@ -1,0 +1,5 @@
+D:\code\C#2\ArrayMethodsTesting\ArrayMethods\BinarySearch\bin\Debug\BinarySearch.exe.config
+D:\code\C#2\ArrayMethodsTesting\ArrayMethods\BinarySearch\bin\Debug\BinarySearch.exe
+D:\code\C#2\ArrayMethodsTesting\ArrayMethods\BinarySearch\bin\Debug\BinarySearch.pdb
+D:\code\C#2\ArrayMethodsTesting\ArrayMethods\BinarySearch\obj\Debug\BinarySearch.exe
+D:\code\C#2\ArrayMethodsTesting\ArrayMethods\BinarySearch\obj\Debug\BinarySearch.pdb

@@ -1,0 +1,5 @@
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\ArrayReversTest\bin\Debug\ArrayReversTest.exe.config
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\ArrayReversTest\bin\Debug\ArrayReversTest.exe
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\ArrayReversTest\bin\Debug\ArrayReversTest.pdb
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\ArrayReversTest\obj\Debug\ArrayReversTest.exe
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\ArrayReversTest\obj\Debug\ArrayReversTest.pdb

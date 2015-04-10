@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Game\Speech\Speech\Speech\bin\Debug\Speech.exe.config
+C:\Users\User\Desktop\Game\Speech\Speech\Speech\bin\Debug\Speech.exe
+C:\Users\User\Desktop\Game\Speech\Speech\Speech\bin\Debug\Speech.pdb
+C:\Users\User\Desktop\Game\Speech\Speech\Speech\obj\Debug\Speech.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Game\Speech\Speech\Speech\obj\Debug\Speech.exe
+C:\Users\User\Desktop\Game\Speech\Speech\Speech\obj\Debug\Speech.pdb

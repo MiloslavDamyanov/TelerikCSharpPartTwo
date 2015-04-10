@@ -1,0 +1,12 @@
+D:\code\C#2\HW\07. Text-Files\12. RemoveWordsFromText\bin\Debug\_12.RemoveWordsFromText.exe.config
+D:\code\C#2\HW\07. Text-Files\12. RemoveWordsFromText\bin\Debug\_12.RemoveWordsFromText.exe
+D:\code\C#2\HW\07. Text-Files\12. RemoveWordsFromText\bin\Debug\_12.RemoveWordsFromText.pdb
+D:\code\C#2\HW\07. Text-Files\12. RemoveWordsFromText\obj\Debug\12. RemoveWordsFromText.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\07. Text-Files\12. RemoveWordsFromText\obj\Debug\_12.RemoveWordsFromText.exe
+D:\code\C#2\HW\07. Text-Files\12. RemoveWordsFromText\obj\Debug\_12.RemoveWordsFromText.pdb
+D:\code\C#2\HW\7. Text-Files\12. RemoveWordsFromText\bin\Debug\_12.RemoveWordsFromText.exe.config
+D:\code\C#2\HW\7. Text-Files\12. RemoveWordsFromText\obj\Debug\_12.RemoveWordsFromText.exe
+D:\code\C#2\HW\7. Text-Files\12. RemoveWordsFromText\obj\Debug\_12.RemoveWordsFromText.pdb
+D:\code\C#2\HW\7. Text-Files\12. RemoveWordsFromText\bin\Debug\_12.RemoveWordsFromText.exe
+D:\code\C#2\HW\7. Text-Files\12. RemoveWordsFromText\bin\Debug\_12.RemoveWordsFromText.pdb
+D:\code\C#2\HW\7. Text-Files\12. RemoveWordsFromText\obj\Debug\12. RemoveWordsFromText.csprojResolveAssemblyReference.cache

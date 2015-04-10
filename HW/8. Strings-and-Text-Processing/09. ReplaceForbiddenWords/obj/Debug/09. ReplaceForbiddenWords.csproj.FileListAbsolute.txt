@@ -1,0 +1,6 @@
+D:\code\C#2\HW\8. Strings-and-Text-Processing\09. ReplaceForbiddenWords\bin\Debug\_09.ReplaceForbiddenWords.exe.config
+D:\code\C#2\HW\8. Strings-and-Text-Processing\09. ReplaceForbiddenWords\bin\Debug\_09.ReplaceForbiddenWords.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\09. ReplaceForbiddenWords\bin\Debug\_09.ReplaceForbiddenWords.pdb
+D:\code\C#2\HW\8. Strings-and-Text-Processing\09. ReplaceForbiddenWords\obj\Debug\09. ReplaceForbiddenWords.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\8. Strings-and-Text-Processing\09. ReplaceForbiddenWords\obj\Debug\_09.ReplaceForbiddenWords.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\09. ReplaceForbiddenWords\obj\Debug\_09.ReplaceForbiddenWords.pdb

@@ -1,0 +1,1 @@
+D:\code\C#2\ExceptionHandlingTest\ExceptionHandlingTest\bin\Debug\ExceptionHandlingTest.exe.config

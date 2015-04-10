@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\exam\src\Exam\4. Bat'Goiko Tower\bin\Debug\_4.Bat_Goiko_Tower.exe.config
+C:\Users\User\Desktop\exam\src\Exam\4. Bat'Goiko Tower\bin\Debug\_4.Bat_Goiko_Tower.exe
+C:\Users\User\Desktop\exam\src\Exam\4. Bat'Goiko Tower\bin\Debug\_4.Bat_Goiko_Tower.pdb
+C:\Users\User\Desktop\exam\src\Exam\4. Bat'Goiko Tower\obj\Debug\_4.Bat_Goiko_Tower.exe
+C:\Users\User\Desktop\exam\src\Exam\4. Bat'Goiko Tower\obj\Debug\_4.Bat_Goiko_Tower.pdb
+D:\code\exam\src\Exam\4. Bat'Goiko Tower\bin\Debug\_4.Bat_Goiko_Tower.exe.config
+D:\code\exam\src\Exam\4. Bat'Goiko Tower\obj\Debug\_4.Bat_Goiko_Tower.exe
+D:\code\exam\src\Exam\4. Bat'Goiko Tower\obj\Debug\_4.Bat_Goiko_Tower.pdb
+D:\code\exam\src\Exam\4. Bat'Goiko Tower\bin\Debug\_4.Bat_Goiko_Tower.exe
+D:\code\exam\src\Exam\4. Bat'Goiko Tower\bin\Debug\_4.Bat_Goiko_Tower.pdb
+D:\code\exam\src\Exam\4. Bat'Goiko Tower\obj\Debug\4. Bat'Goiko Tower.csprojResolveAssemblyReference.cache

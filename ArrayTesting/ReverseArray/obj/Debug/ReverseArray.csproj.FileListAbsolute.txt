@@ -1,0 +1,5 @@
+D:\code\C#2\ArrayTesting\ReverseArray\bin\Debug\ReverseArray.exe.config
+D:\code\C#2\ArrayTesting\ReverseArray\bin\Debug\ReverseArray.exe
+D:\code\C#2\ArrayTesting\ReverseArray\bin\Debug\ReverseArray.pdb
+D:\code\C#2\ArrayTesting\ReverseArray\obj\Debug\ReverseArray.exe
+D:\code\C#2\ArrayTesting\ReverseArray\obj\Debug\ReverseArray.pdb

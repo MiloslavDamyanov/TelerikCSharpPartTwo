@@ -1,0 +1,5 @@
+D:\code\C#2\HW\4. Numeral-Systems\01. DecToBin\bin\Debug\_01.DecToBin.exe.config
+D:\code\C#2\HW\4. Numeral-Systems\01. DecToBin\obj\Debug\_01.DecToBin.exe
+D:\code\C#2\HW\4. Numeral-Systems\01. DecToBin\obj\Debug\_01.DecToBin.pdb
+D:\code\C#2\HW\4. Numeral-Systems\01. DecToBin\bin\Debug\_01.DecToBin.exe
+D:\code\C#2\HW\4. Numeral-Systems\01. DecToBin\bin\Debug\_01.DecToBin.pdb

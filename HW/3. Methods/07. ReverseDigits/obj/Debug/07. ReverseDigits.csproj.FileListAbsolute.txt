@@ -1,0 +1,6 @@
+D:\code\C#2\HW\3. Methods\07. ReverseDigits\bin\Debug\_07.ReverseDigits.exe.config
+D:\code\C#2\HW\3. Methods\07. ReverseDigits\bin\Debug\_07.ReverseDigits.exe
+D:\code\C#2\HW\3. Methods\07. ReverseDigits\bin\Debug\_07.ReverseDigits.pdb
+D:\code\C#2\HW\3. Methods\07. ReverseDigits\obj\Debug\07. ReverseDigits.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\3. Methods\07. ReverseDigits\obj\Debug\_07.ReverseDigits.exe
+D:\code\C#2\HW\3. Methods\07. ReverseDigits\obj\Debug\_07.ReverseDigits.pdb

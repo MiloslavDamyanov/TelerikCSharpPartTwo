@@ -1,0 +1,6 @@
+D:\code\C#2\HW\5. Using-Classes-and-Objects\06. CalcSumOfString\bin\Debug\_06.CalcSumOfString.exe.config
+D:\code\C#2\HW\5. Using-Classes-and-Objects\06. CalcSumOfString\bin\Debug\_06.CalcSumOfString.exe
+D:\code\C#2\HW\5. Using-Classes-and-Objects\06. CalcSumOfString\bin\Debug\_06.CalcSumOfString.pdb
+D:\code\C#2\HW\5. Using-Classes-and-Objects\06. CalcSumOfString\obj\Debug\06. CalcSumOfString.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\5. Using-Classes-and-Objects\06. CalcSumOfString\obj\Debug\_06.CalcSumOfString.exe
+D:\code\C#2\HW\5. Using-Classes-and-Objects\06. CalcSumOfString\obj\Debug\_06.CalcSumOfString.pdb

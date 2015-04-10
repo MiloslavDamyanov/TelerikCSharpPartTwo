@@ -1,0 +1,1 @@
+D:\code\C#2\MathExpression\ReversePolishNotation\bin\Debug\ReversePolishNotation.exe.config

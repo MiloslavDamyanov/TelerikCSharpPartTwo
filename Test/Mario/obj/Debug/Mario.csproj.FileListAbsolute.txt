@@ -1,0 +1,5 @@
+D:\code\C#2\Test\Mario\bin\Debug\Mario.exe.config
+D:\code\C#2\Test\Mario\bin\Debug\Mario.exe
+D:\code\C#2\Test\Mario\bin\Debug\Mario.pdb
+D:\code\C#2\Test\Mario\obj\Debug\Mario.exe
+D:\code\C#2\Test\Mario\obj\Debug\Mario.pdb

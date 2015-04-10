@@ -1,0 +1,6 @@
+D:\code\C#2\HW\8. Strings-and-Text-Processing\05. toUpperCase\bin\Debug\_05.toUpperCase.exe.config
+D:\code\C#2\HW\8. Strings-and-Text-Processing\05. toUpperCase\bin\Debug\_05.toUpperCase.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\05. toUpperCase\bin\Debug\_05.toUpperCase.pdb
+D:\code\C#2\HW\8. Strings-and-Text-Processing\05. toUpperCase\obj\Debug\_05.toUpperCase.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\05. toUpperCase\obj\Debug\_05.toUpperCase.pdb
+D:\code\C#2\HW\8. Strings-and-Text-Processing\05. toUpperCase\obj\Debug\05. toUpperCase.csprojResolveAssemblyReference.cache

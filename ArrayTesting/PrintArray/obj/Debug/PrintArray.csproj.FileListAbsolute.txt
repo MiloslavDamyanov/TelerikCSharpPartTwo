@@ -1,0 +1,6 @@
+D:\code\C#2\ArrayTesting\PrintArray\bin\Debug\PrintArray.exe.config
+D:\code\C#2\ArrayTesting\PrintArray\bin\Debug\PrintArray.exe
+D:\code\C#2\ArrayTesting\PrintArray\bin\Debug\PrintArray.pdb
+D:\code\C#2\ArrayTesting\PrintArray\obj\Debug\PrintArray.csprojResolveAssemblyReference.cache
+D:\code\C#2\ArrayTesting\PrintArray\obj\Debug\PrintArray.exe
+D:\code\C#2\ArrayTesting\PrintArray\obj\Debug\PrintArray.pdb

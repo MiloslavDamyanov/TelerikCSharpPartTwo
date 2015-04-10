@@ -1,0 +1,4 @@
+D:\code\C#2\Strings-and-Text-Processing-Demos\Searching-In-String\bin\Debug\Searching-In-String.exe
+D:\code\C#2\Strings-and-Text-Processing-Demos\Searching-In-String\bin\Debug\Searching-In-String.pdb
+D:\code\C#2\Strings-and-Text-Processing-Demos\Searching-In-String\obj\Debug\Searching-In-String.exe
+D:\code\C#2\Strings-and-Text-Processing-Demos\Searching-In-String\obj\Debug\Searching-In-String.pdb

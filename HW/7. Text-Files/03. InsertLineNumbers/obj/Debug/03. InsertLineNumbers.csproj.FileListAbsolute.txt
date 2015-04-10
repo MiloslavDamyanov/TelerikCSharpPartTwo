@@ -1,0 +1,12 @@
+D:\code\C#2\HW\07. Text-Files\03. InsertLineNumbers\bin\Debug\_03.InsertLineNumbers.exe.config
+D:\code\C#2\HW\07. Text-Files\03. InsertLineNumbers\bin\Debug\_03.InsertLineNumbers.exe
+D:\code\C#2\HW\07. Text-Files\03. InsertLineNumbers\bin\Debug\_03.InsertLineNumbers.pdb
+D:\code\C#2\HW\07. Text-Files\03. InsertLineNumbers\obj\Debug\03. InsertLineNumbers.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\07. Text-Files\03. InsertLineNumbers\obj\Debug\_03.InsertLineNumbers.exe
+D:\code\C#2\HW\07. Text-Files\03. InsertLineNumbers\obj\Debug\_03.InsertLineNumbers.pdb
+D:\code\C#2\HW\7. Text-Files\03. InsertLineNumbers\bin\Debug\_03.InsertLineNumbers.exe.config
+D:\code\C#2\HW\7. Text-Files\03. InsertLineNumbers\bin\Debug\_03.InsertLineNumbers.exe
+D:\code\C#2\HW\7. Text-Files\03. InsertLineNumbers\bin\Debug\_03.InsertLineNumbers.pdb
+D:\code\C#2\HW\7. Text-Files\03. InsertLineNumbers\obj\Debug\03. InsertLineNumbers.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\7. Text-Files\03. InsertLineNumbers\obj\Debug\_03.InsertLineNumbers.exe
+D:\code\C#2\HW\7. Text-Files\03. InsertLineNumbers\obj\Debug\_03.InsertLineNumbers.pdb

@@ -1,0 +1,6 @@
+D:\code\C#2\HW\5. Using-Classes-and-Objects\05. WorkingDays\bin\Debug\_05.WorkingDays.exe.config
+D:\code\C#2\HW\5. Using-Classes-and-Objects\05. WorkingDays\bin\Debug\_05.WorkingDays.exe
+D:\code\C#2\HW\5. Using-Classes-and-Objects\05. WorkingDays\bin\Debug\_05.WorkingDays.pdb
+D:\code\C#2\HW\5. Using-Classes-and-Objects\05. WorkingDays\obj\Debug\05. WorkingDays.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\5. Using-Classes-and-Objects\05. WorkingDays\obj\Debug\_05.WorkingDays.exe
+D:\code\C#2\HW\5. Using-Classes-and-Objects\05. WorkingDays\obj\Debug\_05.WorkingDays.pdb

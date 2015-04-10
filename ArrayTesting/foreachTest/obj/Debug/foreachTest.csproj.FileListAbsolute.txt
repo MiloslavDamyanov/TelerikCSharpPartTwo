@@ -1,0 +1,6 @@
+D:\code\C#2\ArrayTesting\foreachTest\bin\Debug\foreachTest.exe.config
+D:\code\C#2\ArrayTesting\foreachTest\bin\Debug\foreachTest.exe
+D:\code\C#2\ArrayTesting\foreachTest\bin\Debug\foreachTest.pdb
+D:\code\C#2\ArrayTesting\foreachTest\obj\Debug\foreachTest.exe
+D:\code\C#2\ArrayTesting\foreachTest\obj\Debug\foreachTest.pdb
+D:\code\C#2\ArrayTesting\foreachTest\obj\Debug\foreachTest.csprojResolveAssemblyReference.cache

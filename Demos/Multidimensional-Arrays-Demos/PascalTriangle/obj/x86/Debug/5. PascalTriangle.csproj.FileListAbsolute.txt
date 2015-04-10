@@ -1,0 +1,5 @@
+D:\code\C#2\Demos\Multidimensional-Arrays-Demos\PascalTriangle\bin\Debug\PascalTriangle.exe
+D:\code\C#2\Demos\Multidimensional-Arrays-Demos\PascalTriangle\bin\Debug\PascalTriangle.pdb
+D:\code\C#2\Demos\Multidimensional-Arrays-Demos\PascalTriangle\obj\x86\Debug\5. PascalTriangle.csprojResolveAssemblyReference.cache
+D:\code\C#2\Demos\Multidimensional-Arrays-Demos\PascalTriangle\obj\x86\Debug\PascalTriangle.exe
+D:\code\C#2\Demos\Multidimensional-Arrays-Demos\PascalTriangle\obj\x86\Debug\PascalTriangle.pdb

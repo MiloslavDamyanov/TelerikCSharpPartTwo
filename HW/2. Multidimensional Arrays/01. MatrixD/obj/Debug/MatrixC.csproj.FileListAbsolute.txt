@@ -1,0 +1,6 @@
+D:\code\C#2\HW\2. Multidimensional Arrays\MatrixC\bin\Debug\MatrixC.exe.config
+D:\code\C#2\HW\2. Multidimensional Arrays\MatrixC\bin\Debug\MatrixC.exe
+D:\code\C#2\HW\2. Multidimensional Arrays\MatrixC\bin\Debug\MatrixC.pdb
+D:\code\C#2\HW\2. Multidimensional Arrays\MatrixC\obj\Debug\MatrixC.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\2. Multidimensional Arrays\MatrixC\obj\Debug\MatrixC.exe
+D:\code\C#2\HW\2. Multidimensional Arrays\MatrixC\obj\Debug\MatrixC.pdb

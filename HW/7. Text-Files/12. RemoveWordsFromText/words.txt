@@ -1,0 +1,6 @@
+words
+file
+and
+the
+result
+should

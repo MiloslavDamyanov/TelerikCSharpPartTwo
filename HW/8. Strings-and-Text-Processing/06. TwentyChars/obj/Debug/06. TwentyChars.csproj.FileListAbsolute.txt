@@ -1,0 +1,5 @@
+D:\code\C#2\HW\8. Strings-and-Text-Processing\06. TwentyChars\bin\Debug\_06.TwentyChars.exe.config
+D:\code\C#2\HW\8. Strings-and-Text-Processing\06. TwentyChars\bin\Debug\_06.TwentyChars.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\06. TwentyChars\bin\Debug\_06.TwentyChars.pdb
+D:\code\C#2\HW\8. Strings-and-Text-Processing\06. TwentyChars\obj\Debug\_06.TwentyChars.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\06. TwentyChars\obj\Debug\_06.TwentyChars.pdb

@@ -1,0 +1,5 @@
+D:\code\C#2\ArrayTesting\MultiplayingArray\bin\Debug\MultiplayingArray.exe.config
+D:\code\C#2\ArrayTesting\MultiplayingArray\bin\Debug\MultiplayingArray.exe
+D:\code\C#2\ArrayTesting\MultiplayingArray\bin\Debug\MultiplayingArray.pdb
+D:\code\C#2\ArrayTesting\MultiplayingArray\obj\Debug\MultiplayingArray.exe
+D:\code\C#2\ArrayTesting\MultiplayingArray\obj\Debug\MultiplayingArray.pdb

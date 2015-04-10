@@ -1,0 +1,21 @@
+D:\code\C#2\HW\07. Text-Files\07. Text-Files\bin\Debug\_07.Text_Files.exe.config
+D:\code\C#2\HW\07. Text-Files\07. Text-Files\bin\Debug\_07.Text_Files.exe
+D:\code\C#2\HW\07. Text-Files\07. Text-Files\bin\Debug\_07.Text_Files.pdb
+D:\code\C#2\HW\07. Text-Files\07. Text-Files\obj\Debug\01. ReadFilePrintOddLines.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\07. Text-Files\07. Text-Files\obj\Debug\_07.Text_Files.exe
+D:\code\C#2\HW\07. Text-Files\07. Text-Files\obj\Debug\_07.Text_Files.pdb
+D:\code\C#2\HW\07. Text-Files\01. ReadFilePrintOddLines\bin\Debug\_07.Text_Files.exe.config
+D:\code\C#2\HW\07. Text-Files\01. ReadFilePrintOddLines\obj\Debug\_07.Text_Files.exe
+D:\code\C#2\HW\07. Text-Files\01. ReadFilePrintOddLines\obj\Debug\_07.Text_Files.pdb
+D:\code\C#2\HW\07. Text-Files\01. ReadFilePrintOddLines\bin\Debug\_07.Text_Files.exe
+D:\code\C#2\HW\07. Text-Files\01. ReadFilePrintOddLines\bin\Debug\_07.Text_Files.pdb
+D:\code\C#2\HW\07. Text-Files\01. ReadFilePrintOddLines\obj\Debug\01. ReadFilePrintOddLines.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\7. Text-Files\01. ReadFilePrintOddLines\bin\Debug\_07.Text_Files.exe.config
+D:\code\C#2\HW\7. Text-Files\01. ReadFilePrintOddLines\obj\Debug\_07.Text_Files.exe
+D:\code\C#2\HW\7. Text-Files\01. ReadFilePrintOddLines\obj\Debug\_07.Text_Files.pdb
+D:\code\C#2\HW\7. Text-Files\01. ReadFilePrintOddLines\bin\Debug\_07.Text_Files.exe
+D:\code\C#2\HW\7. Text-Files\01. ReadFilePrintOddLines\bin\Debug\_07.Text_Files.pdb
+D:\code\C#2\HW\7. Text-Files\01. ReadFilePrintOddLines\obj\Debug\01. ReadFilePrintOddLines.csprojResolveAssemblyReference.cache
+D:\code\C# 2\HW\7. Text-Files\01. ReadFilePrintOddLines\bin\Debug\_07.Text_Files.exe.config
+D:\code\C# 2\HW\7. Text-Files\01. ReadFilePrintOddLines\obj\Debug\_07.Text_Files.exe
+D:\code\C# 2\HW\7. Text-Files\01. ReadFilePrintOddLines\obj\Debug\_07.Text_Files.pdb

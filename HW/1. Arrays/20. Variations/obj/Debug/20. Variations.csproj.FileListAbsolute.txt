@@ -1,0 +1,6 @@
+D:\code\C#2\HW\1. Arrays\20. Variations\bin\Debug\_20.Variations.exe.config
+D:\code\C#2\HW\1. Arrays\20. Variations\bin\Debug\_20.Variations.exe
+D:\code\C#2\HW\1. Arrays\20. Variations\bin\Debug\_20.Variations.pdb
+D:\code\C#2\HW\1. Arrays\20. Variations\obj\Debug\_20.Variations.exe
+D:\code\C#2\HW\1. Arrays\20. Variations\obj\Debug\_20.Variations.pdb
+D:\code\C#2\HW\1. Arrays\20. Variations\obj\Debug\20. Variations.csprojResolveAssemblyReference.cache

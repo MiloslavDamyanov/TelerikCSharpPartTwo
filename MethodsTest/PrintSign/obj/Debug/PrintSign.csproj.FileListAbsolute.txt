@@ -1,0 +1,5 @@
+D:\code\C#2\MethodsTest\PrintSign\bin\Debug\PrintSign.exe.config
+D:\code\C#2\MethodsTest\PrintSign\bin\Debug\PrintSign.exe
+D:\code\C#2\MethodsTest\PrintSign\bin\Debug\PrintSign.pdb
+D:\code\C#2\MethodsTest\PrintSign\obj\Debug\PrintSign.exe
+D:\code\C#2\MethodsTest\PrintSign\obj\Debug\PrintSign.pdb

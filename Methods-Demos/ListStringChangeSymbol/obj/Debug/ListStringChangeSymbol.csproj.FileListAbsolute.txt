@@ -1,0 +1,6 @@
+D:\code\C#2\Methods-Demos\ListStringChangeSymbol\bin\Debug\ListStringChangeSymbol.exe.config
+D:\code\C#2\Methods-Demos\ListStringChangeSymbol\bin\Debug\ListStringChangeSymbol.exe
+D:\code\C#2\Methods-Demos\ListStringChangeSymbol\bin\Debug\ListStringChangeSymbol.pdb
+D:\code\C#2\Methods-Demos\ListStringChangeSymbol\obj\Debug\ListStringChangeSymbol.csprojResolveAssemblyReference.cache
+D:\code\C#2\Methods-Demos\ListStringChangeSymbol\obj\Debug\ListStringChangeSymbol.exe
+D:\code\C#2\Methods-Demos\ListStringChangeSymbol\obj\Debug\ListStringChangeSymbol.pdb

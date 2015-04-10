@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Game\Arcanoid\Arcanoid\bin\Debug\Arcanoid.exe.config
+C:\Users\User\Desktop\Game\Arcanoid\Arcanoid\bin\Debug\Arcanoid.exe
+C:\Users\User\Desktop\Game\Arcanoid\Arcanoid\bin\Debug\Arcanoid.pdb
+C:\Users\User\Desktop\Game\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Game\Arcanoid\Arcanoid\obj\Debug\Arcanoid.exe
+C:\Users\User\Desktop\Game\Arcanoid\Arcanoid\obj\Debug\Arcanoid.pdb

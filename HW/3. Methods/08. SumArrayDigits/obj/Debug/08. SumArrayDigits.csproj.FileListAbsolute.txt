@@ -1,0 +1,6 @@
+D:\code\C#2\HW\3. Methods\08. SumArrayDigits\bin\Debug\_08.SumArrayDigits.exe.config
+D:\code\C#2\HW\3. Methods\08. SumArrayDigits\bin\Debug\_08.SumArrayDigits.exe
+D:\code\C#2\HW\3. Methods\08. SumArrayDigits\bin\Debug\_08.SumArrayDigits.pdb
+D:\code\C#2\HW\3. Methods\08. SumArrayDigits\obj\Debug\08. SumArrayDigits.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\3. Methods\08. SumArrayDigits\obj\Debug\_08.SumArrayDigits.exe
+D:\code\C#2\HW\3. Methods\08. SumArrayDigits\obj\Debug\_08.SumArrayDigits.pdb

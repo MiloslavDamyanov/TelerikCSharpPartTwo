@@ -1,0 +1,12 @@
+D:\code\C#2\HW\07. Text-Files\04. ComapreFilesByLines\bin\Debug\_04.ComapreFilesByLines.exe.config
+D:\code\C#2\HW\07. Text-Files\04. ComapreFilesByLines\bin\Debug\_04.ComapreFilesByLines.exe
+D:\code\C#2\HW\07. Text-Files\04. ComapreFilesByLines\bin\Debug\_04.ComapreFilesByLines.pdb
+D:\code\C#2\HW\07. Text-Files\04. ComapreFilesByLines\obj\Debug\04. ComapreFilesByLines.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\07. Text-Files\04. ComapreFilesByLines\obj\Debug\_04.ComapreFilesByLines.exe
+D:\code\C#2\HW\07. Text-Files\04. ComapreFilesByLines\obj\Debug\_04.ComapreFilesByLines.pdb
+D:\code\C#2\HW\7. Text-Files\04. ComapreFilesByLines\bin\Debug\_04.ComapreFilesByLines.exe.config
+D:\code\C#2\HW\7. Text-Files\04. ComapreFilesByLines\bin\Debug\_04.ComapreFilesByLines.exe
+D:\code\C#2\HW\7. Text-Files\04. ComapreFilesByLines\bin\Debug\_04.ComapreFilesByLines.pdb
+D:\code\C#2\HW\7. Text-Files\04. ComapreFilesByLines\obj\Debug\04. ComapreFilesByLines.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\7. Text-Files\04. ComapreFilesByLines\obj\Debug\_04.ComapreFilesByLines.exe
+D:\code\C#2\HW\7. Text-Files\04. ComapreFilesByLines\obj\Debug\_04.ComapreFilesByLines.pdb

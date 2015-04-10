@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Game\Chessmaster Table\Table\Table2\bin\Debug\Table2.exe.config
+C:\Users\User\Desktop\Game\Chessmaster Table\Table\Table2\bin\Debug\Table2.exe
+C:\Users\User\Desktop\Game\Chessmaster Table\Table\Table2\bin\Debug\Table2.pdb
+C:\Users\User\Desktop\Game\Chessmaster Table\Table\Table2\obj\Debug\Table2.exe
+C:\Users\User\Desktop\Game\Chessmaster Table\Table\Table2\obj\Debug\Table2.pdb
+C:\Users\User\Desktop\Game\Chessmaster Table\Table\Table2\obj\Debug\Table2.csprojResolveAssemblyReference.cache

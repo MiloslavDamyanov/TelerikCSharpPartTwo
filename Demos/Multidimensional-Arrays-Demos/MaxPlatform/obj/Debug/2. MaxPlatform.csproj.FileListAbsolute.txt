@@ -1,0 +1,5 @@
+D:\code\C#2\Demos\Multidimensional-Arrays-Demos\MaxPlatform\bin\Debug\MaxPlatform.exe
+D:\code\C#2\Demos\Multidimensional-Arrays-Demos\MaxPlatform\bin\Debug\MaxPlatform.pdb
+D:\code\C#2\Demos\Multidimensional-Arrays-Demos\MaxPlatform\obj\Debug\2. MaxPlatform.csprojResolveAssemblyReference.cache
+D:\code\C#2\Demos\Multidimensional-Arrays-Demos\MaxPlatform\obj\Debug\MaxPlatform.exe
+D:\code\C#2\Demos\Multidimensional-Arrays-Demos\MaxPlatform\obj\Debug\MaxPlatform.pdb

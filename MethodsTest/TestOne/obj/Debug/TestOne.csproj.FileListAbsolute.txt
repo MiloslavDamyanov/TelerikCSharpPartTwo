@@ -1,0 +1,6 @@
+D:\code\C#2\MethodsTest\TestOne\bin\Debug\TestOne.exe.config
+D:\code\C#2\MethodsTest\TestOne\bin\Debug\TestOne.exe
+D:\code\C#2\MethodsTest\TestOne\bin\Debug\TestOne.pdb
+D:\code\C#2\MethodsTest\TestOne\obj\Debug\TestOne.csprojResolveAssemblyReference.cache
+D:\code\C#2\MethodsTest\TestOne\obj\Debug\TestOne.exe
+D:\code\C#2\MethodsTest\TestOne\obj\Debug\TestOne.pdb

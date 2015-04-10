@@ -1,0 +1,6 @@
+D:\code\C#2\HW\7. Text-Files\11. DeleteWordsFromTextFile\bin\Debug\_11.DeleteWordsFromTextFile.exe.config
+D:\code\C#2\HW\7. Text-Files\11. DeleteWordsFromTextFile\bin\Debug\_11.DeleteWordsFromTextFile.exe
+D:\code\C#2\HW\7. Text-Files\11. DeleteWordsFromTextFile\bin\Debug\_11.DeleteWordsFromTextFile.pdb
+D:\code\C#2\HW\7. Text-Files\11. DeleteWordsFromTextFile\obj\Debug\11. DeleteWordsFromTextFile.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\7. Text-Files\11. DeleteWordsFromTextFile\obj\Debug\_11.DeleteWordsFromTextFile.exe
+D:\code\C#2\HW\7. Text-Files\11. DeleteWordsFromTextFile\obj\Debug\_11.DeleteWordsFromTextFile.pdb

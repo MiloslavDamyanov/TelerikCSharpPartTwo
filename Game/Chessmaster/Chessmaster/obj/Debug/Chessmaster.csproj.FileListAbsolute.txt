@@ -1,0 +1,12 @@
+D:\code\Chessmaster\Chessmaster\bin\Debug\Chessmaster.exe.config
+D:\code\Chessmaster\Chessmaster\bin\Debug\Chessmaster.exe
+D:\code\Chessmaster\Chessmaster\bin\Debug\Chessmaster.pdb
+D:\code\Chessmaster\Chessmaster\obj\Debug\Chessmaster.csprojResolveAssemblyReference.cache
+D:\code\Chessmaster\Chessmaster\obj\Debug\Chessmaster.exe
+D:\code\Chessmaster\Chessmaster\obj\Debug\Chessmaster.pdb
+D:\code\C#2\Game\Chessmaster\Chessmaster\bin\Debug\Chessmaster.exe.config
+D:\code\C#2\Game\Chessmaster\Chessmaster\obj\Debug\Chessmaster.exe
+D:\code\C#2\Game\Chessmaster\Chessmaster\obj\Debug\Chessmaster.pdb
+D:\code\C#2\Game\Chessmaster\Chessmaster\bin\Debug\Chessmaster.exe
+D:\code\C#2\Game\Chessmaster\Chessmaster\bin\Debug\Chessmaster.pdb
+D:\code\C#2\Game\Chessmaster\Chessmaster\obj\Debug\Chessmaster.csprojResolveAssemblyReference.cache

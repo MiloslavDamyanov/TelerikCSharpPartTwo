@@ -1,0 +1,6 @@
+D:\code\C#2\HW\1. Arrays\16. Subset\bin\Debug\_16.Subset.exe.config
+D:\code\C#2\HW\1. Arrays\16. Subset\bin\Debug\_16.Subset.exe
+D:\code\C#2\HW\1. Arrays\16. Subset\bin\Debug\_16.Subset.pdb
+D:\code\C#2\HW\1. Arrays\16. Subset\obj\Debug\16. Subset.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\1. Arrays\16. Subset\obj\Debug\_16.Subset.exe
+D:\code\C#2\HW\1. Arrays\16. Subset\obj\Debug\_16.Subset.pdb

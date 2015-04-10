@@ -1,0 +1,5 @@
+D:\code\C#2\HW\3. Methods\09. MaxElementSort\bin\Debug\_09.MaxElementSort.exe.config
+D:\code\C#2\HW\3. Methods\09. MaxElementSort\bin\Debug\_09.MaxElementSort.exe
+D:\code\C#2\HW\3. Methods\09. MaxElementSort\bin\Debug\_09.MaxElementSort.pdb
+D:\code\C#2\HW\3. Methods\09. MaxElementSort\obj\Debug\_09.MaxElementSort.exe
+D:\code\C#2\HW\3. Methods\09. MaxElementSort\obj\Debug\_09.MaxElementSort.pdb

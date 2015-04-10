@@ -1,0 +1,6 @@
+D:\code\C#2\HW\3. Methods\13. MultipleTasks\bin\Debug\_13.MultipleTasks.exe.config
+D:\code\C#2\HW\3. Methods\13. MultipleTasks\bin\Debug\_13.MultipleTasks.exe
+D:\code\C#2\HW\3. Methods\13. MultipleTasks\bin\Debug\_13.MultipleTasks.pdb
+D:\code\C#2\HW\3. Methods\13. MultipleTasks\obj\Debug\13. MultipleTasks.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\3. Methods\13. MultipleTasks\obj\Debug\_13.MultipleTasks.exe
+D:\code\C#2\HW\3. Methods\13. MultipleTasks\obj\Debug\_13.MultipleTasks.pdb

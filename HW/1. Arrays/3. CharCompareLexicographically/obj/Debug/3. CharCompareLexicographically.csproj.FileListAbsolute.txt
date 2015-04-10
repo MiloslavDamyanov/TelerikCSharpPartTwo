@@ -1,0 +1,12 @@
+D:\code\C#2\HW\1. Arrays\CharCompareLexicographically\bin\Debug\CharCompareLexicographically.exe.config
+D:\code\C#2\HW\1. Arrays\CharCompareLexicographically\bin\Debug\CharCompareLexicographically.exe
+D:\code\C#2\HW\1. Arrays\CharCompareLexicographically\bin\Debug\CharCompareLexicographically.pdb
+D:\code\C#2\HW\1. Arrays\CharCompareLexicographically\obj\Debug\3. CharCompareLexicographically.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\1. Arrays\CharCompareLexicographically\obj\Debug\CharCompareLexicographically.exe
+D:\code\C#2\HW\1. Arrays\CharCompareLexicographically\obj\Debug\CharCompareLexicographically.pdb
+D:\code\C#2\HW\1. Arrays\3. CharCompareLexicographically\bin\Debug\CharCompareLexicographically.exe.config
+D:\code\C#2\HW\1. Arrays\3. CharCompareLexicographically\obj\Debug\CharCompareLexicographically.exe
+D:\code\C#2\HW\1. Arrays\3. CharCompareLexicographically\obj\Debug\CharCompareLexicographically.pdb
+D:\code\C#2\HW\1. Arrays\3. CharCompareLexicographically\bin\Debug\CharCompareLexicographically.exe
+D:\code\C#2\HW\1. Arrays\3. CharCompareLexicographically\bin\Debug\CharCompareLexicographically.pdb
+D:\code\C#2\HW\1. Arrays\3. CharCompareLexicographically\obj\Debug\3. CharCompareLexicographically.csprojResolveAssemblyReference.cache

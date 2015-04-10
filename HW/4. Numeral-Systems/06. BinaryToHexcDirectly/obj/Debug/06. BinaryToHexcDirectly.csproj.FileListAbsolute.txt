@@ -1,0 +1,6 @@
+D:\code\C#2\HW\4. Numeral-Systems\06. BinaryToHexcDirectly\bin\Debug\_06.BinaryToHexcDirectly.exe.config
+D:\code\C#2\HW\4. Numeral-Systems\06. BinaryToHexcDirectly\bin\Debug\_06.BinaryToHexcDirectly.exe
+D:\code\C#2\HW\4. Numeral-Systems\06. BinaryToHexcDirectly\bin\Debug\_06.BinaryToHexcDirectly.pdb
+D:\code\C#2\HW\4. Numeral-Systems\06. BinaryToHexcDirectly\obj\Debug\06. BinaryToHexcDirectly.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\4. Numeral-Systems\06. BinaryToHexcDirectly\obj\Debug\_06.BinaryToHexcDirectly.exe
+D:\code\C#2\HW\4. Numeral-Systems\06. BinaryToHexcDirectly\obj\Debug\_06.BinaryToHexcDirectly.pdb

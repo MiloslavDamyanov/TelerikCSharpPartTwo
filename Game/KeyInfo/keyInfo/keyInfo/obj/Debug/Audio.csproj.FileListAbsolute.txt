@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Game\KeyInfo\keyInfo\keyInfo\bin\Debug\keyInfo.exe.config
+C:\Users\User\Desktop\Game\KeyInfo\keyInfo\keyInfo\bin\Debug\keyInfo.exe
+C:\Users\User\Desktop\Game\KeyInfo\keyInfo\keyInfo\bin\Debug\keyInfo.pdb
+C:\Users\User\Desktop\Game\KeyInfo\keyInfo\keyInfo\obj\Debug\Audio.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Game\KeyInfo\keyInfo\keyInfo\obj\Debug\keyInfo.exe
+C:\Users\User\Desktop\Game\KeyInfo\keyInfo\keyInfo\obj\Debug\keyInfo.pdb

@@ -1,0 +1,6 @@
+D:\code\C#2\HW\2. Multidimensional Arrays\MatrixB\bin\Debug\MatrixB.exe.config
+D:\code\C#2\HW\2. Multidimensional Arrays\MatrixB\obj\Debug\MatrixB.exe
+D:\code\C#2\HW\2. Multidimensional Arrays\MatrixB\obj\Debug\MatrixB.pdb
+D:\code\C#2\HW\2. Multidimensional Arrays\01. MatrixB\bin\Debug\MatrixB.exe.config
+D:\code\C#2\HW\2. Multidimensional Arrays\01. MatrixB\obj\Debug\MatrixB.exe
+D:\code\C#2\HW\2. Multidimensional Arrays\01. MatrixB\obj\Debug\MatrixB.pdb

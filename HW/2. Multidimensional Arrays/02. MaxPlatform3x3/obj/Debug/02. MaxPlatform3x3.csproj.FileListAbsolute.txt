@@ -1,0 +1,12 @@
+D:\code\C#2\HW\2. Multidimensional Arrays\2. MaxPlatform3x3\bin\Debug\_2.MaxPlatform3x3.exe.config
+D:\code\C#2\HW\2. Multidimensional Arrays\2. MaxPlatform3x3\obj\Debug\_2.MaxPlatform3x3.exe
+D:\code\C#2\HW\2. Multidimensional Arrays\2. MaxPlatform3x3\obj\Debug\_2.MaxPlatform3x3.pdb
+D:\code\C#2\HW\2. Multidimensional Arrays\2. MaxPlatform3x3\bin\Debug\_2.MaxPlatform3x3.exe
+D:\code\C#2\HW\2. Multidimensional Arrays\2. MaxPlatform3x3\bin\Debug\_2.MaxPlatform3x3.pdb
+D:\code\C#2\HW\2. Multidimensional Arrays\2. MaxPlatform3x3\obj\Debug\02. MaxPlatform3x3.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\2. Multidimensional Arrays\02. MaxPlatform3x3\bin\Debug\_2.MaxPlatform3x3.exe.config
+D:\code\C#2\HW\2. Multidimensional Arrays\02. MaxPlatform3x3\obj\Debug\_2.MaxPlatform3x3.exe
+D:\code\C#2\HW\2. Multidimensional Arrays\02. MaxPlatform3x3\obj\Debug\_2.MaxPlatform3x3.pdb
+D:\code\C#2\HW\2. Multidimensional Arrays\02. MaxPlatform3x3\bin\Debug\_2.MaxPlatform3x3.exe
+D:\code\C#2\HW\2. Multidimensional Arrays\02. MaxPlatform3x3\bin\Debug\_2.MaxPlatform3x3.pdb
+D:\code\C#2\HW\2. Multidimensional Arrays\02. MaxPlatform3x3\obj\Debug\02. MaxPlatform3x3.csprojResolveAssemblyReference.cache

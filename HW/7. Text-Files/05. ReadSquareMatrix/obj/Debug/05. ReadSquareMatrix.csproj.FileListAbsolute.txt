@@ -1,0 +1,12 @@
+D:\code\C#2\HW\07. Text-Files\05. ReadSquareMatrix\bin\Debug\_05.ReadSquareMatrix.exe.config
+D:\code\C#2\HW\07. Text-Files\05. ReadSquareMatrix\bin\Debug\_05.ReadSquareMatrix.exe
+D:\code\C#2\HW\07. Text-Files\05. ReadSquareMatrix\bin\Debug\_05.ReadSquareMatrix.pdb
+D:\code\C#2\HW\07. Text-Files\05. ReadSquareMatrix\obj\Debug\05. ReadSquareMatrix.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\07. Text-Files\05. ReadSquareMatrix\obj\Debug\_05.ReadSquareMatrix.exe
+D:\code\C#2\HW\07. Text-Files\05. ReadSquareMatrix\obj\Debug\_05.ReadSquareMatrix.pdb
+D:\code\C#2\HW\7. Text-Files\05. ReadSquareMatrix\bin\Debug\_05.ReadSquareMatrix.exe.config
+D:\code\C#2\HW\7. Text-Files\05. ReadSquareMatrix\bin\Debug\_05.ReadSquareMatrix.exe
+D:\code\C#2\HW\7. Text-Files\05. ReadSquareMatrix\bin\Debug\_05.ReadSquareMatrix.pdb
+D:\code\C#2\HW\7. Text-Files\05. ReadSquareMatrix\obj\Debug\05. ReadSquareMatrix.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\7. Text-Files\05. ReadSquareMatrix\obj\Debug\_05.ReadSquareMatrix.exe
+D:\code\C#2\HW\7. Text-Files\05. ReadSquareMatrix\obj\Debug\_05.ReadSquareMatrix.pdb

@@ -1,0 +1,6 @@
+D:\code\C#2\HW\4. Numeral-Systems\04. HexadecimalToDecimal\bin\Debug\_04.HexadecimalToDecimal.exe.config
+D:\code\C#2\HW\4. Numeral-Systems\04. HexadecimalToDecimal\bin\Debug\_04.HexadecimalToDecimal.exe
+D:\code\C#2\HW\4. Numeral-Systems\04. HexadecimalToDecimal\bin\Debug\_04.HexadecimalToDecimal.pdb
+D:\code\C#2\HW\4. Numeral-Systems\04. HexadecimalToDecimal\obj\Debug\04. HexadecimalToDecimal.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\4. Numeral-Systems\04. HexadecimalToDecimal\obj\Debug\_04.HexadecimalToDecimal.exe
+D:\code\C#2\HW\4. Numeral-Systems\04. HexadecimalToDecimal\obj\Debug\_04.HexadecimalToDecimal.pdb

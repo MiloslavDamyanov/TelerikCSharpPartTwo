@@ -1,0 +1,6 @@
+D:\code\C#2\ListTesting\ListTesting\bin\Debug\ListTesting.exe.config
+D:\code\C#2\ListTesting\ListTesting\bin\Debug\ListTesting.exe
+D:\code\C#2\ListTesting\ListTesting\bin\Debug\ListTesting.pdb
+D:\code\C#2\ListTesting\ListTesting\obj\Debug\List.csprojResolveAssemblyReference.cache
+D:\code\C#2\ListTesting\ListTesting\obj\Debug\ListTesting.exe
+D:\code\C#2\ListTesting\ListTesting\obj\Debug\ListTesting.pdb

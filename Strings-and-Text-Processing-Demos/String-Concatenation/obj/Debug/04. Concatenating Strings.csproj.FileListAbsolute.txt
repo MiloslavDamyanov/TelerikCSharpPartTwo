@@ -1,0 +1,4 @@
+D:\code\C#2\Strings-and-Text-Processing-Demos\String-Concatenation\bin\Debug\String-Concatenation.exe
+D:\code\C#2\Strings-and-Text-Processing-Demos\String-Concatenation\bin\Debug\String-Concatenation.pdb
+D:\code\C#2\Strings-and-Text-Processing-Demos\String-Concatenation\obj\Debug\String-Concatenation.exe
+D:\code\C#2\Strings-and-Text-Processing-Demos\String-Concatenation\obj\Debug\String-Concatenation.pdb

@@ -1,0 +1,6 @@
+D:\code\C#2\HW\4. Numeral-Systems\05. HexToBinDirectly\bin\Debug\_05.HexToBinDirectly.exe.config
+D:\code\C#2\HW\4. Numeral-Systems\05. HexToBinDirectly\bin\Debug\_05.HexToBinDirectly.exe
+D:\code\C#2\HW\4. Numeral-Systems\05. HexToBinDirectly\bin\Debug\_05.HexToBinDirectly.pdb
+D:\code\C#2\HW\4. Numeral-Systems\05. HexToBinDirectly\obj\Debug\05. HexToBinDirectly.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\4. Numeral-Systems\05. HexToBinDirectly\obj\Debug\_05.HexToBinDirectly.exe
+D:\code\C#2\HW\4. Numeral-Systems\05. HexToBinDirectly\obj\Debug\_05.HexToBinDirectly.pdb

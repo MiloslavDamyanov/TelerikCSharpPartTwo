@@ -1,0 +1,6 @@
+D:\code\Sound\ConsoleApplication1\Speech\bin\Debug\Speech.exe.config
+D:\code\Sound\ConsoleApplication1\Speech\bin\Debug\Speech.exe
+D:\code\Sound\ConsoleApplication1\Speech\bin\Debug\Speech.pdb
+D:\code\Sound\ConsoleApplication1\Speech\obj\Debug\Speech.csprojResolveAssemblyReference.cache
+D:\code\Sound\ConsoleApplication1\Speech\obj\Debug\Speech.exe
+D:\code\Sound\ConsoleApplication1\Speech\obj\Debug\Speech.pdb

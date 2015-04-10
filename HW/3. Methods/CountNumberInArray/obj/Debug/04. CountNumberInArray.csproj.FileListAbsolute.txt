@@ -1,0 +1,6 @@
+D:\code\C#2\HW\3. Methods\CountNumberInArray\bin\Debug\CountNumberInArray.exe.config
+D:\code\C#2\HW\3. Methods\CountNumberInArray\bin\Debug\CountNumberInArray.exe
+D:\code\C#2\HW\3. Methods\CountNumberInArray\bin\Debug\CountNumberInArray.pdb
+D:\code\C#2\HW\3. Methods\CountNumberInArray\obj\Debug\04. CountNumberInArray.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\3. Methods\CountNumberInArray\obj\Debug\CountNumberInArray.exe
+D:\code\C#2\HW\3. Methods\CountNumberInArray\obj\Debug\CountNumberInArray.pdb

@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Game\Exit\Exit\bin\Debug\Exit.exe.config
+C:\Users\User\Desktop\Game\Exit\Exit\bin\Debug\Exit.exe
+C:\Users\User\Desktop\Game\Exit\Exit\bin\Debug\Exit.pdb
+C:\Users\User\Desktop\Game\Exit\Exit\obj\Debug\Exit.exe
+C:\Users\User\Desktop\Game\Exit\Exit\obj\Debug\Exit.pdb
+C:\Users\User\Desktop\Game\Exit\Exit\obj\Debug\Exit.csprojResolveAssemblyReference.cache
+D:\code\C#2\Game\Exit\Exit\bin\Debug\Exit.exe.config
+D:\code\C#2\Game\Exit\Exit\obj\Debug\Exit.exe
+D:\code\C#2\Game\Exit\Exit\obj\Debug\Exit.pdb
+D:\code\C#2\Game\Exit\Exit\bin\Debug\Exit.exe
+D:\code\C#2\Game\Exit\Exit\bin\Debug\Exit.pdb
+D:\code\C#2\Game\Exit\Exit\obj\Debug\Exit.csprojResolveAssemblyReference.cache

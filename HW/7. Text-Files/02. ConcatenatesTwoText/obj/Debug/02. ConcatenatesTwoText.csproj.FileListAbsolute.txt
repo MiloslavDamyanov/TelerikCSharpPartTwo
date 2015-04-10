@@ -1,0 +1,12 @@
+D:\code\C#2\HW\07. Text-Files\02. ConcatenatesTwoText\bin\Debug\_02.ConcatenatesTwoText.exe.config
+D:\code\C#2\HW\07. Text-Files\02. ConcatenatesTwoText\bin\Debug\_02.ConcatenatesTwoText.exe
+D:\code\C#2\HW\07. Text-Files\02. ConcatenatesTwoText\bin\Debug\_02.ConcatenatesTwoText.pdb
+D:\code\C#2\HW\07. Text-Files\02. ConcatenatesTwoText\obj\Debug\02. ConcatenatesTwoText.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\07. Text-Files\02. ConcatenatesTwoText\obj\Debug\_02.ConcatenatesTwoText.exe
+D:\code\C#2\HW\07. Text-Files\02. ConcatenatesTwoText\obj\Debug\_02.ConcatenatesTwoText.pdb
+D:\code\C#2\HW\7. Text-Files\02. ConcatenatesTwoText\bin\Debug\_02.ConcatenatesTwoText.exe.config
+D:\code\C#2\HW\7. Text-Files\02. ConcatenatesTwoText\bin\Debug\_02.ConcatenatesTwoText.exe
+D:\code\C#2\HW\7. Text-Files\02. ConcatenatesTwoText\bin\Debug\_02.ConcatenatesTwoText.pdb
+D:\code\C#2\HW\7. Text-Files\02. ConcatenatesTwoText\obj\Debug\02. ConcatenatesTwoText.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\7. Text-Files\02. ConcatenatesTwoText\obj\Debug\_02.ConcatenatesTwoText.exe
+D:\code\C#2\HW\7. Text-Files\02. ConcatenatesTwoText\obj\Debug\_02.ConcatenatesTwoText.pdb

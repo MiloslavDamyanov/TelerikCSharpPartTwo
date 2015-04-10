@@ -1,0 +1,6 @@
+D:\code\C#2\HW\5. Using-Classes-and-Objects\02. RandomNumbersGenerator\bin\Debug\_02.RandomNumbersGenerator.exe.config
+D:\code\C#2\HW\5. Using-Classes-and-Objects\02. RandomNumbersGenerator\bin\Debug\_02.RandomNumbersGenerator.exe
+D:\code\C#2\HW\5. Using-Classes-and-Objects\02. RandomNumbersGenerator\bin\Debug\_02.RandomNumbersGenerator.pdb
+D:\code\C#2\HW\5. Using-Classes-and-Objects\02. RandomNumbersGenerator\obj\Debug\_02.RandomNumbersGenerator.exe
+D:\code\C#2\HW\5. Using-Classes-and-Objects\02. RandomNumbersGenerator\obj\Debug\_02.RandomNumbersGenerator.pdb
+D:\code\C#2\HW\5. Using-Classes-and-Objects\02. RandomNumbersGenerator\obj\Debug\02. RandomNumbersGenerator.csprojResolveAssemblyReference.cache

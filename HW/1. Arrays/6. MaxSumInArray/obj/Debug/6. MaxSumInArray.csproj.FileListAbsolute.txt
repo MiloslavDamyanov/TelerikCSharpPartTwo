@@ -1,0 +1,6 @@
+D:\code\C#2\HW\1. Arrays\6. MaxSumInArray\bin\Debug\_6.MaxSumInArray.exe.config
+D:\code\C#2\HW\1. Arrays\6. MaxSumInArray\bin\Debug\_6.MaxSumInArray.exe
+D:\code\C#2\HW\1. Arrays\6. MaxSumInArray\bin\Debug\_6.MaxSumInArray.pdb
+D:\code\C#2\HW\1. Arrays\6. MaxSumInArray\obj\Debug\6. MaxSumInArray.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\1. Arrays\6. MaxSumInArray\obj\Debug\_6.MaxSumInArray.exe
+D:\code\C#2\HW\1. Arrays\6. MaxSumInArray\obj\Debug\_6.MaxSumInArray.pdb

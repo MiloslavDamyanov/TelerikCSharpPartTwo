@@ -1,0 +1,6 @@
+D:\code\C#2\HW\3. Methods\01. HelloMethod\bin\Debug\_3.Methods.exe.config
+D:\code\C#2\HW\3. Methods\01. HelloMethod\bin\Debug\_3.Methods.exe
+D:\code\C#2\HW\3. Methods\01. HelloMethod\bin\Debug\_3.Methods.pdb
+D:\code\C#2\HW\3. Methods\01. HelloMethod\obj\Debug\01. HelloMethod.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\3. Methods\01. HelloMethod\obj\Debug\_3.Methods.exe
+D:\code\C#2\HW\3. Methods\01. HelloMethod\obj\Debug\_3.Methods.pdb

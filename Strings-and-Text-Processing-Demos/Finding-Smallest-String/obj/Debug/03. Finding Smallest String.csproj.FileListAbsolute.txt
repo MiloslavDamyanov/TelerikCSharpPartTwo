@@ -1,0 +1,4 @@
+D:\code\C#2\Strings-and-Text-Processing-Demos\Finding-Smallest-String\bin\Debug\Finding-Smallest-String.exe
+D:\code\C#2\Strings-and-Text-Processing-Demos\Finding-Smallest-String\bin\Debug\Finding-Smallest-String.pdb
+D:\code\C#2\Strings-and-Text-Processing-Demos\Finding-Smallest-String\obj\Debug\Finding-Smallest-String.exe
+D:\code\C#2\Strings-and-Text-Processing-Demos\Finding-Smallest-String\obj\Debug\Finding-Smallest-String.pdb

@@ -1,0 +1,6 @@
+D:\code\C#2\Test\SetWindowsPosition\bin\Debug\SetWindowsPosition.exe.config
+D:\code\C#2\Test\SetWindowsPosition\bin\Debug\SetWindowsPosition.exe
+D:\code\C#2\Test\SetWindowsPosition\bin\Debug\SetWindowsPosition.pdb
+D:\code\C#2\Test\SetWindowsPosition\obj\Debug\SetWindowsPosition.csprojResolveAssemblyReference.cache
+D:\code\C#2\Test\SetWindowsPosition\obj\Debug\SetWindowsPosition.exe
+D:\code\C#2\Test\SetWindowsPosition\obj\Debug\SetWindowsPosition.pdb

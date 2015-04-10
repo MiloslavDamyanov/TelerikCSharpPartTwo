@@ -1,0 +1,6 @@
+D:\code\C#2\HW\4. Numeral-Systems\08. BinaryRepresentation\bin\Debug\_08.BinaryRepresentation.exe.config
+D:\code\C#2\HW\4. Numeral-Systems\08. BinaryRepresentation\bin\Debug\_08.BinaryRepresentation.exe
+D:\code\C#2\HW\4. Numeral-Systems\08. BinaryRepresentation\bin\Debug\_08.BinaryRepresentation.pdb
+D:\code\C#2\HW\4. Numeral-Systems\08. BinaryRepresentation\obj\Debug\08. BinaryRepresentation.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\4. Numeral-Systems\08. BinaryRepresentation\obj\Debug\_08.BinaryRepresentation.exe
+D:\code\C#2\HW\4. Numeral-Systems\08. BinaryRepresentation\obj\Debug\_08.BinaryRepresentation.pdb

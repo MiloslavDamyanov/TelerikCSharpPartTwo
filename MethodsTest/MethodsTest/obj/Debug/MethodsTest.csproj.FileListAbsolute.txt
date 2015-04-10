@@ -1,0 +1,6 @@
+D:\code\C#2\MethodsTest\MethodsTest\bin\Debug\MethodsTest.exe.config
+D:\code\C#2\MethodsTest\MethodsTest\bin\Debug\MethodsTest.exe
+D:\code\C#2\MethodsTest\MethodsTest\bin\Debug\MethodsTest.pdb
+D:\code\C#2\MethodsTest\MethodsTest\obj\Debug\MethodsTest.csprojResolveAssemblyReference.cache
+D:\code\C#2\MethodsTest\MethodsTest\obj\Debug\MethodsTest.exe
+D:\code\C#2\MethodsTest\MethodsTest\obj\Debug\MethodsTest.pdb

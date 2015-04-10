@@ -1,0 +1,6 @@
+D:\code\C#2\Test\Audio\bin\Debug\Audio.exe.config
+D:\code\C#2\Test\Audio\bin\Debug\Audio.exe
+D:\code\C#2\Test\Audio\bin\Debug\Audio.pdb
+D:\code\C#2\Test\Audio\obj\Debug\Speech.csprojResolveAssemblyReference.cache
+D:\code\C#2\Test\Audio\obj\Debug\Audio.exe
+D:\code\C#2\Test\Audio\obj\Debug\Audio.pdb

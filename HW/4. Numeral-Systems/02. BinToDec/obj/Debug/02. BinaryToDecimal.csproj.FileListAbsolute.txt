@@ -1,0 +1,6 @@
+D:\code\C#2\HW\4. Numeral-Systems\02. BinToDec\bin\Debug\_02.BinToDec.exe.config
+D:\code\C#2\HW\4. Numeral-Systems\02. BinToDec\obj\Debug\_02.BinToDec.exe
+D:\code\C#2\HW\4. Numeral-Systems\02. BinToDec\obj\Debug\_02.BinToDec.pdb
+D:\code\C#2\HW\4. Numeral-Systems\02. BinToDec\bin\Debug\_02.BinToDec.exe
+D:\code\C#2\HW\4. Numeral-Systems\02. BinToDec\bin\Debug\_02.BinToDec.pdb
+D:\code\C#2\HW\4. Numeral-Systems\02. BinToDec\obj\Debug\02. BinaryToDecimal.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\code\C#2\HW\6. Exception-Handling\02. ReadNumberInRange\bin\Debug\_02.ReadNumberInRange.exe.config
+D:\code\C#2\HW\6. Exception-Handling\02. ReadNumberInRange\bin\Debug\_02.ReadNumberInRange.exe
+D:\code\C#2\HW\6. Exception-Handling\02. ReadNumberInRange\bin\Debug\_02.ReadNumberInRange.pdb
+D:\code\C#2\HW\6. Exception-Handling\02. ReadNumberInRange\obj\Debug\02. ReadNumberInRange.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\6. Exception-Handling\02. ReadNumberInRange\obj\Debug\_02.ReadNumberInRange.exe
+D:\code\C#2\HW\6. Exception-Handling\02. ReadNumberInRange\obj\Debug\_02.ReadNumberInRange.pdb

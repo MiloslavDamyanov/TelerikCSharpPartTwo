@@ -1,0 +1,6 @@
+D:\code\C#2\HW\3. Methods\03. LastDigitToWord\bin\Debug\_03.LastDigitToWord.exe.config
+D:\code\C#2\HW\3. Methods\03. LastDigitToWord\obj\Debug\03. LastDigitToWord.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\3. Methods\03. LastDigitToWord\bin\Debug\_03.LastDigitToWord.exe
+D:\code\C#2\HW\3. Methods\03. LastDigitToWord\bin\Debug\_03.LastDigitToWord.pdb
+D:\code\C#2\HW\3. Methods\03. LastDigitToWord\obj\Debug\_03.LastDigitToWord.exe
+D:\code\C#2\HW\3. Methods\03. LastDigitToWord\obj\Debug\_03.LastDigitToWord.pdb

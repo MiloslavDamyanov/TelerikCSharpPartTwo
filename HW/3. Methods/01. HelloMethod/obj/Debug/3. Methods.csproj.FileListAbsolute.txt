@@ -1,0 +1,2 @@
+D:\code\C#2\ArrayMethodsTesting\3. Methods\3. Methods\bin\Debug\_3.Methods.exe.config
+D:\code\C#2\HW\3. Methods\3. Methods\bin\Debug\_3.Methods.exe.config

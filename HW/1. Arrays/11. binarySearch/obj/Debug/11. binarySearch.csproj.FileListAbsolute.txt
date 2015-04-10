@@ -1,0 +1,6 @@
+D:\code\C#2\HW\1. Arrays\11. binarySearch\bin\Debug\_11.binarySearch.exe.config
+D:\code\C#2\HW\1. Arrays\11. binarySearch\bin\Debug\_11.binarySearch.exe
+D:\code\C#2\HW\1. Arrays\11. binarySearch\bin\Debug\_11.binarySearch.pdb
+D:\code\C#2\HW\1. Arrays\11. binarySearch\obj\Debug\_11.binarySearch.exe
+D:\code\C#2\HW\1. Arrays\11. binarySearch\obj\Debug\_11.binarySearch.pdb
+D:\code\C#2\HW\1. Arrays\11. binarySearch\obj\Debug\11. binarySearch.csprojResolveAssemblyReference.cache

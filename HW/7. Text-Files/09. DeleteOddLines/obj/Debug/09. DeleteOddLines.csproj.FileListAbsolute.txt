@@ -1,0 +1,12 @@
+D:\code\C#2\HW\07. Text-Files\09. DeleteOddLines\bin\Debug\_09.DeleteOddLines.exe.config
+D:\code\C#2\HW\07. Text-Files\09. DeleteOddLines\bin\Debug\_09.DeleteOddLines.exe
+D:\code\C#2\HW\07. Text-Files\09. DeleteOddLines\bin\Debug\_09.DeleteOddLines.pdb
+D:\code\C#2\HW\07. Text-Files\09. DeleteOddLines\obj\Debug\09. DeleteOddLines.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\07. Text-Files\09. DeleteOddLines\obj\Debug\_09.DeleteOddLines.exe
+D:\code\C#2\HW\07. Text-Files\09. DeleteOddLines\obj\Debug\_09.DeleteOddLines.pdb
+D:\code\C#2\HW\7. Text-Files\09. DeleteOddLines\bin\Debug\_09.DeleteOddLines.exe.config
+D:\code\C#2\HW\7. Text-Files\09. DeleteOddLines\bin\Debug\_09.DeleteOddLines.exe
+D:\code\C#2\HW\7. Text-Files\09. DeleteOddLines\bin\Debug\_09.DeleteOddLines.pdb
+D:\code\C#2\HW\7. Text-Files\09. DeleteOddLines\obj\Debug\09. DeleteOddLines.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\7. Text-Files\09. DeleteOddLines\obj\Debug\_09.DeleteOddLines.exe
+D:\code\C#2\HW\7. Text-Files\09. DeleteOddLines\obj\Debug\_09.DeleteOddLines.pdb

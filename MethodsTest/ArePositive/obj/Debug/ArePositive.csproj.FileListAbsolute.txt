@@ -1,0 +1,6 @@
+D:\code\C#2\MethodsTest\ArePositive\bin\Debug\ArePositive.exe.config
+D:\code\C#2\MethodsTest\ArePositive\bin\Debug\ArePositive.exe
+D:\code\C#2\MethodsTest\ArePositive\bin\Debug\ArePositive.pdb
+D:\code\C#2\MethodsTest\ArePositive\obj\Debug\ArePositive.csprojResolveAssemblyReference.cache
+D:\code\C#2\MethodsTest\ArePositive\obj\Debug\ArePositive.exe
+D:\code\C#2\MethodsTest\ArePositive\obj\Debug\ArePositive.pdb

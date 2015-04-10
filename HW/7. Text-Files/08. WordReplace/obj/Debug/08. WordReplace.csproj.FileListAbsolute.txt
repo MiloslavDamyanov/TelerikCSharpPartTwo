@@ -1,0 +1,12 @@
+D:\code\C#2\HW\07. Text-Files\08. WordReplace\bin\Debug\_08.WordReplace.exe.config
+D:\code\C#2\HW\07. Text-Files\08. WordReplace\bin\Debug\_08.WordReplace.exe
+D:\code\C#2\HW\07. Text-Files\08. WordReplace\bin\Debug\_08.WordReplace.pdb
+D:\code\C#2\HW\07. Text-Files\08. WordReplace\obj\Debug\08. WordReplace.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\07. Text-Files\08. WordReplace\obj\Debug\_08.WordReplace.exe
+D:\code\C#2\HW\07. Text-Files\08. WordReplace\obj\Debug\_08.WordReplace.pdb
+D:\code\C#2\HW\7. Text-Files\08. WordReplace\bin\Debug\_08.WordReplace.exe.config
+D:\code\C#2\HW\7. Text-Files\08. WordReplace\obj\Debug\_08.WordReplace.exe
+D:\code\C#2\HW\7. Text-Files\08. WordReplace\obj\Debug\_08.WordReplace.pdb
+D:\code\C#2\HW\7. Text-Files\08. WordReplace\bin\Debug\_08.WordReplace.exe
+D:\code\C#2\HW\7. Text-Files\08. WordReplace\bin\Debug\_08.WordReplace.pdb
+D:\code\C#2\HW\7. Text-Files\08. WordReplace\obj\Debug\08. WordReplace.csprojResolveAssemblyReference.cache

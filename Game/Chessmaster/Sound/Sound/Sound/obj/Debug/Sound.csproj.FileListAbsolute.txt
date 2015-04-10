@@ -1,0 +1,6 @@
+D:\code\Chessmaster\Sound\Sound\Sound\bin\Debug\Sound.exe.config
+D:\code\Chessmaster\Sound\Sound\Sound\bin\Debug\Sound.exe
+D:\code\Chessmaster\Sound\Sound\Sound\bin\Debug\Sound.pdb
+D:\code\Chessmaster\Sound\Sound\Sound\obj\Debug\Sound.csprojResolveAssemblyReference.cache
+D:\code\Chessmaster\Sound\Sound\Sound\obj\Debug\Sound.exe
+D:\code\Chessmaster\Sound\Sound\Sound\obj\Debug\Sound.pdb

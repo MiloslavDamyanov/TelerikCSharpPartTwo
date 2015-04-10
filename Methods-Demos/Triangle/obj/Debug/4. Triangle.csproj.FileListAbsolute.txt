@@ -1,0 +1,5 @@
+D:\code\C#2\Methods-Demos\Triangle\bin\Debug\Triangle.exe
+D:\code\C#2\Methods-Demos\Triangle\bin\Debug\Triangle.pdb
+D:\code\C#2\Methods-Demos\Triangle\obj\Debug\4. Triangle.csprojResolveAssemblyReference.cache
+D:\code\C#2\Methods-Demos\Triangle\obj\Debug\Triangle.exe
+D:\code\C#2\Methods-Demos\Triangle\obj\Debug\Triangle.pdb

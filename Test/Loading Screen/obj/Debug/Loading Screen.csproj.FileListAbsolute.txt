@@ -1,0 +1,5 @@
+D:\code\C#2\Test\Loading Screen\bin\Debug\Loading Screen.exe.config
+D:\code\C#2\Test\Loading Screen\bin\Debug\Loading Screen.exe
+D:\code\C#2\Test\Loading Screen\bin\Debug\Loading Screen.pdb
+D:\code\C#2\Test\Loading Screen\obj\Debug\Loading Screen.exe
+D:\code\C#2\Test\Loading Screen\obj\Debug\Loading Screen.pdb

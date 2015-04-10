@@ -1,0 +1,6 @@
+D:\code\C#2\JustCar\JustCar\bin\Debug\JustCar.exe.config
+D:\code\C#2\JustCar\JustCar\bin\Debug\JustCar.exe
+D:\code\C#2\JustCar\JustCar\bin\Debug\JustCar.pdb
+D:\code\C#2\JustCar\JustCar\obj\Debug\JustCar.exe
+D:\code\C#2\JustCar\JustCar\obj\Debug\JustCar.pdb
+D:\code\C#2\JustCar\JustCar\obj\Debug\JustCar.csprojResolveAssemblyReference.cache

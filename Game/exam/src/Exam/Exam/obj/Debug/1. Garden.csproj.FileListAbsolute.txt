@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\exam\src\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\User\Desktop\exam\src\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\User\Desktop\exam\src\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\User\Desktop\exam\src\Exam\Exam\obj\Debug\1. Garden.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\exam\src\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\User\Desktop\exam\src\Exam\Exam\obj\Debug\Exam.pdb
+D:\code\exam\src\Exam\Exam\bin\Debug\Exam.exe.config
+D:\code\exam\src\Exam\Exam\obj\Debug\Exam.exe
+D:\code\exam\src\Exam\Exam\obj\Debug\Exam.pdb

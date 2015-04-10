@@ -1,0 +1,6 @@
+D:\code\C#2\HW\1. Arrays\21. Combinations\bin\Debug\_21.Combinations.exe.config
+D:\code\C#2\HW\1. Arrays\21. Combinations\bin\Debug\_21.Combinations.exe
+D:\code\C#2\HW\1. Arrays\21. Combinations\bin\Debug\_21.Combinations.pdb
+D:\code\C#2\HW\1. Arrays\21. Combinations\obj\Debug\_21.Combinations.exe
+D:\code\C#2\HW\1. Arrays\21. Combinations\obj\Debug\_21.Combinations.pdb
+D:\code\C#2\HW\1. Arrays\21. Combinations\obj\Debug\21. Combinations.csprojResolveAssemblyReference.cache

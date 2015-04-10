@@ -1,0 +1,6 @@
+D:\code\C#2\HW\4. Numeral-Systems\07. ConvertFromAnyNumSys\bin\Debug\_07.ConvertFromAnyNumSys.exe.config
+D:\code\C#2\HW\4. Numeral-Systems\07. ConvertFromAnyNumSys\obj\Debug\07. ConvertFromAnyNumSys.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\4. Numeral-Systems\07. ConvertFromAnyNumSys\bin\Debug\_07.ConvertFromAnyNumSys.exe
+D:\code\C#2\HW\4. Numeral-Systems\07. ConvertFromAnyNumSys\bin\Debug\_07.ConvertFromAnyNumSys.pdb
+D:\code\C#2\HW\4. Numeral-Systems\07. ConvertFromAnyNumSys\obj\Debug\_07.ConvertFromAnyNumSys.exe
+D:\code\C#2\HW\4. Numeral-Systems\07. ConvertFromAnyNumSys\obj\Debug\_07.ConvertFromAnyNumSys.pdb

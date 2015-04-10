@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="54c1c497-0544-4cf7-b83c-4a282b059194">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>10.%20ExtractTextFromXML/file.xml</FileRelativePath>
+        <ProjectRelativePath>10.%20ExtractTextFromXML/10.%20ExtractTextFromXML.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>8817988188714757810</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

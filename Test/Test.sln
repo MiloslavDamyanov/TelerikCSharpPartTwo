@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movement_Engine", "Test\Movement_Engine.csproj", "{35EAD52C-A4A0-4036-9CB2-B51619DFE3BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colors", "test 2\Colors.csproj", "{FF24CCA1-448C-4C19-A8A8-8D5974FECF75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loading Screen", "Loading Screen\Loading Screen.csproj", "{6885F5B1-91BC-4F87-945F-DC7CFBCDC739}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mario", "Mario\Mario.csproj", "{36F97A29-4FD4-47F6-AF9E-F7E7ED47AD7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetWindowsPosition", "SetWindowsPosition\SetWindowsPosition.csproj", "{BAEFF408-9E46-448E-BA6E-BA5C724C9054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speech", "Audio\Speech.csproj", "{BAA42EB3-84B7-4B86-90AC-653B460B2C9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsSize", "WindowsSize\WindowsSize.csproj", "{8FE608FA-CDF3-4445-B25E-3BE6FA9236B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35EAD52C-A4A0-4036-9CB2-B51619DFE3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EAD52C-A4A0-4036-9CB2-B51619DFE3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EAD52C-A4A0-4036-9CB2-B51619DFE3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EAD52C-A4A0-4036-9CB2-B51619DFE3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF24CCA1-448C-4C19-A8A8-8D5974FECF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF24CCA1-448C-4C19-A8A8-8D5974FECF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF24CCA1-448C-4C19-A8A8-8D5974FECF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF24CCA1-448C-4C19-A8A8-8D5974FECF75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6885F5B1-91BC-4F87-945F-DC7CFBCDC739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6885F5B1-91BC-4F87-945F-DC7CFBCDC739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6885F5B1-91BC-4F87-945F-DC7CFBCDC739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6885F5B1-91BC-4F87-945F-DC7CFBCDC739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F97A29-4FD4-47F6-AF9E-F7E7ED47AD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F97A29-4FD4-47F6-AF9E-F7E7ED47AD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F97A29-4FD4-47F6-AF9E-F7E7ED47AD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F97A29-4FD4-47F6-AF9E-F7E7ED47AD7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAEFF408-9E46-448E-BA6E-BA5C724C9054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEFF408-9E46-448E-BA6E-BA5C724C9054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEFF408-9E46-448E-BA6E-BA5C724C9054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEFF408-9E46-448E-BA6E-BA5C724C9054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA42EB3-84B7-4B86-90AC-653B460B2C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA42EB3-84B7-4B86-90AC-653B460B2C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA42EB3-84B7-4B86-90AC-653B460B2C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA42EB3-84B7-4B86-90AC-653B460B2C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE608FA-CDF3-4445-B25E-3BE6FA9236B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE608FA-CDF3-4445-B25E-3BE6FA9236B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE608FA-CDF3-4445-B25E-3BE6FA9236B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE608FA-CDF3-4445-B25E-3BE6FA9236B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

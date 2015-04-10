@@ -1,0 +1,6 @@
+D:\code\C#2\HW\8. Strings-and-Text-Processing\21. PrintDifferentLetters\bin\Debug\_21.PrintDifferentLetters.exe.config
+D:\code\C#2\HW\8. Strings-and-Text-Processing\21. PrintDifferentLetters\bin\Debug\_21.PrintDifferentLetters.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\21. PrintDifferentLetters\bin\Debug\_21.PrintDifferentLetters.pdb
+D:\code\C#2\HW\8. Strings-and-Text-Processing\21. PrintDifferentLetters\obj\Debug\21. PrintDifferentLetters.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\8. Strings-and-Text-Processing\21. PrintDifferentLetters\obj\Debug\_21.PrintDifferentLetters.exe
+D:\code\C#2\HW\8. Strings-and-Text-Processing\21. PrintDifferentLetters\obj\Debug\_21.PrintDifferentLetters.pdb

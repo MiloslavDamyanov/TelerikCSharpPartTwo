@@ -1,0 +1,15 @@
+D:\code\C#2\HW\2. MultidimensionalArrays\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\code\C#2\HW\2. MultidimensionalArrays\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\code\C#2\HW\2. MultidimensionalArrays\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\code\C#2\HW\2. MultidimensionalArrays\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\code\C#2\HW\2. MultidimensionalArrays\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\code\C#2\HW\2. MultidimensionalArrays\ConsoleApplication1\ConsoleApplication1\obj\Debug\MatrixA.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\2. MultidimensionalArrays\ConsoleApplication1\MatrixA\bin\Debug\ConsoleApplication1.exe.config
+D:\code\C#2\HW\2. MultidimensionalArrays\ConsoleApplication1\MatrixA\obj\Debug\ConsoleApplication1.exe
+D:\code\C#2\HW\2. MultidimensionalArrays\ConsoleApplication1\MatrixA\obj\Debug\ConsoleApplication1.pdb
+D:\code\C#2\HW\2. Multidimensional Arrays\MatrixA\bin\Debug\ConsoleApplication1.exe.config
+D:\code\C#2\HW\2. Multidimensional Arrays\MatrixA\obj\Debug\ConsoleApplication1.exe
+D:\code\C#2\HW\2. Multidimensional Arrays\MatrixA\obj\Debug\ConsoleApplication1.pdb
+D:\code\C#2\HW\2. Multidimensional Arrays\MatrixA\bin\Debug\ConsoleApplication1.exe
+D:\code\C#2\HW\2. Multidimensional Arrays\MatrixA\bin\Debug\ConsoleApplication1.pdb
+D:\code\C#2\HW\2. Multidimensional Arrays\MatrixA\obj\Debug\MatrixA.csprojResolveAssemblyReference.cache

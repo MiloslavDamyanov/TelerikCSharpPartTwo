@@ -1,0 +1,1 @@
+D:\code\C#2\HW\2. MultidimensionalArrays\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config

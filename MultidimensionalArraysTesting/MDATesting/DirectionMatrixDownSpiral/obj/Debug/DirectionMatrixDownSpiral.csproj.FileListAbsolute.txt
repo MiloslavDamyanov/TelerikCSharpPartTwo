@@ -1,0 +1,6 @@
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\DirectionMatrixDownSpiral\bin\Debug\DirectionMatrixDownSpiral.exe.config
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\DirectionMatrixDownSpiral\bin\Debug\DirectionMatrixDownSpiral.exe
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\DirectionMatrixDownSpiral\bin\Debug\DirectionMatrixDownSpiral.pdb
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\DirectionMatrixDownSpiral\obj\Debug\DirectionMatrixDownSpiral.exe
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\DirectionMatrixDownSpiral\obj\Debug\DirectionMatrixDownSpiral.pdb
+D:\code\C#2\MultidimensionalArraysTesting\MDATesting\DirectionMatrixDownSpiral\obj\Debug\DirectionMatrixDownSpiral.csprojResolveAssemblyReference.cache

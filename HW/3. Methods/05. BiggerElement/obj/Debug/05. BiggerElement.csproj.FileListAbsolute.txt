@@ -1,0 +1,6 @@
+D:\code\C#2\HW\3. Methods\05. BiggerElement\bin\Debug\_05.BiggerElement.exe.config
+D:\code\C#2\HW\3. Methods\05. BiggerElement\bin\Debug\_05.BiggerElement.exe
+D:\code\C#2\HW\3. Methods\05. BiggerElement\bin\Debug\_05.BiggerElement.pdb
+D:\code\C#2\HW\3. Methods\05. BiggerElement\obj\Debug\05. BiggerElement.csprojResolveAssemblyReference.cache
+D:\code\C#2\HW\3. Methods\05. BiggerElement\obj\Debug\_05.BiggerElement.exe
+D:\code\C#2\HW\3. Methods\05. BiggerElement\obj\Debug\_05.BiggerElement.pdb

@@ -1,0 +1,1 @@
+D:\code\C#2\HW\8. Strings-and-Text-Processing\08. ExtractSentece\bin\Debug\_08.ExtractSentece.exe.config

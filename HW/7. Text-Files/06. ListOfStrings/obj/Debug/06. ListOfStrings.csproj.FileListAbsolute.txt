@@ -1,0 +1,10 @@
+D:\code\C#2\HW\07. Text-Files\06. ListOfStrings\bin\Debug\_06.ListOfStrings.exe.config
+D:\code\C#2\HW\07. Text-Files\06. ListOfStrings\bin\Debug\_06.ListOfStrings.exe
+D:\code\C#2\HW\07. Text-Files\06. ListOfStrings\bin\Debug\_06.ListOfStrings.pdb
+D:\code\C#2\HW\07. Text-Files\06. ListOfStrings\obj\Debug\_06.ListOfStrings.exe
+D:\code\C#2\HW\07. Text-Files\06. ListOfStrings\obj\Debug\_06.ListOfStrings.pdb
+D:\code\C#2\HW\7. Text-Files\06. ListOfStrings\bin\Debug\_06.ListOfStrings.exe.config
+D:\code\C#2\HW\7. Text-Files\06. ListOfStrings\bin\Debug\_06.ListOfStrings.exe
+D:\code\C#2\HW\7. Text-Files\06. ListOfStrings\bin\Debug\_06.ListOfStrings.pdb
+D:\code\C#2\HW\7. Text-Files\06. ListOfStrings\obj\Debug\_06.ListOfStrings.exe
+D:\code\C#2\HW\7. Text-Files\06. ListOfStrings\obj\Debug\_06.ListOfStrings.pdb
